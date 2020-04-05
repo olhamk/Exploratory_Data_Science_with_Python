@@ -1,0 +1,1001 @@
+"","default","checking_balance","months_loan_duration","credit_history","purpose","amount","savings_balance","employment_duration","years_at_residence","age","other_credit","housing","existing_loans_count","job","dependents","monthlyincome","phone"
+"1","0","< 0 EUR",6,"critical","furniture/appliances",1169,"unknown","> 7 years",4,67,"none","own",2,"skilled",1,1740,1
+"2","1","1 - 200 EUR",48,"good","furniture/appliances",5951,"< 100 EUR","1 - 4 years",2,22,"none","own",1,"skilled",1,4963,0
+"3","0","unknown",12,"critical","education",2096,"< 100 EUR","4 - 7 years",3,49,"none","own",1,"unskilled",2,1214,0
+"4","0","< 0 EUR",42,"good","furniture/appliances",7882,"< 100 EUR","4 - 7 years",4,45,"none","other",1,"skilled",2,7077,0
+"5","1","< 0 EUR",24,"poor","car",4870,"< 100 EUR","1 - 4 years",4,53,"none","other",2,"skilled",2,5771,0
+"6","0","unknown",36,"good","education",9055,"unknown","1 - 4 years",4,35,"none","other",1,"unskilled",2,8536,1
+"7","0","unknown",24,"good","furniture/appliances",2835,"500 - 1000 EUR","> 7 years",4,53,"none","own",1,"skilled",1,2543,0
+"8","0","1 - 200 EUR",36,"good","car",6948,"< 100 EUR","1 - 4 years",2,7500,"none","rent",1,"management",1,6292,1
+"9","0","unknown",12,"good","furniture/appliances",3059,"> 1000 EUR","4 - 7 years",4,61,"none","own",1,"unskilled",1,2992,0
+"10","1","1 - 200 EUR",30,"critical","car",5234,"< 100 EUR","unemployed",2,28,"none","own",2,"management",1,5025,0
+"11","1","1 - 200 EUR",12,"good","car",1295,"< 100 EUR","< 1 year",1,25,"none","rent",1,"skilled",1,1319,0
+"12","1","< 0 EUR",48,"good","business",4308,"< 100 EUR","< 1 year",4,24,"none","rent",1,"skilled",1,4265,0
+"13","0","1 - 200 EUR",12,"good","furniture/appliances",1567,"< 100 EUR","1 - 4 years",1,22,"none","own",1,"skilled",1,1915,1
+"14","1","< 0 EUR",24,"critical","car",1199,"< 100 EUR","> 7 years",4,60,"none","own",2,"unskilled",1,2061,0
+"15","0","< 0 EUR",15,"good","car",1403,"< 100 EUR","1 - 4 years",4,28,"none","rent",1,"skilled",1,2078,0
+"16","1","< 0 EUR",24,"good","furniture/appliances",1282,"100 - 500 EUR","1 - 4 years",2,32,"none","own",1,"unskilled",1,310,0
+"17","0","unknown",24,"critical","furniture/appliances",2424,"unknown","> 7 years",4,53,"none","own",2,"skilled",1,2306,0
+"18","0","< 0 EUR",30,"perfect","business",8072,"unknown","< 1 year",3,25,"bank","own",3,"skilled",1,7862,0
+"19","1","1 - 200 EUR",24,"good","car",12579,"< 100 EUR","> 7 years",2,44,"none","other",1,"management",1,12277,1
+"20","0","unknown",24,"good","furniture/appliances",3430,"500 - 1000 EUR","> 7 years",2,31,"none","own",1,"skilled",2,4157,1
+"21","0","unknown",9,"critical","car",2134,"< 100 EUR","1 - 4 years",4,48,"none","own",3,"skilled",1,2158,1
+"22","0","< 0 EUR",6,"good","furniture/appliances",2647,"500 - 1000 EUR","1 - 4 years",3,44,"none","rent",1,"skilled",2,2549,0
+"23","0","< 0 EUR",10,"critical","car",2241,"< 100 EUR","< 1 year",3,48,"none","rent",2,"unskilled",2,2014,0
+"24","0","1 - 200 EUR",12,"critical","car",1804,"100 - 500 EUR","< 1 year",4,44,"none","own",1,"skilled",1,2538,0
+"25","0","unknown",10,"critical","furniture/appliances",2069,"unknown","1 - 4 years",1,26,"none","own",2,"skilled",1,1733,0
+"26","0","< 0 EUR",6,"good","furniture/appliances",1374,"< 100 EUR","1 - 4 years",2,36,"bank","own",1,"unskilled",1,1847,1
+"27","0","unknown",6,"perfect","furniture/appliances",426,"< 100 EUR","> 7 years",4,39,"none","own",1,"unskilled",1,-34,0
+"28","0","> 200 EUR",12,"very good","furniture/appliances",409,"> 1000 EUR","1 - 4 years",3,42,"none","rent",2,"skilled",1,365,0
+"29","0","1 - 200 EUR",7,"good","furniture/appliances",2415,"< 100 EUR","1 - 4 years",2,34,"none","own",1,"skilled",1,2975,0
+"30","1","< 0 EUR",60,"poor","business",6836,"< 100 EUR","> 7 years",4,63,"none","own",2,"skilled",1,6141,1
+"31","0","1 - 200 EUR",18,"good","business",1913,"> 1000 EUR","< 1 year",3,36,"bank","own",1,"skilled",1,2185,1
+"32","0","< 0 EUR",24,"good","furniture/appliances",4020,"< 100 EUR","1 - 4 years",2,27,"store","own",1,"skilled",1,3271,0
+"33","0","1 - 200 EUR",18,"good","car",5866,"100 - 500 EUR","1 - 4 years",2,30,"none","own",2,"skilled",1,5070,1
+"34","0","unknown",12,"critical","business",1264,"unknown","> 7 years",4,57,"none","rent",1,"unskilled",1,1750,0
+"35","0","> 200 EUR",12,"good","furniture/appliances",1474,"< 100 EUR","< 1 year",1,33,"bank","own",1,"management",1,1955,1
+"36","1","1 - 200 EUR",45,"critical","furniture/appliances",4746,"< 100 EUR","< 1 year",2,25,"none","own",2,"unskilled",1,4449,0
+"37","0","unknown",48,"critical","education",6110,"< 100 EUR","1 - 4 years",3,31,"bank","other",1,"skilled",1,6224,1
+"38","1","> 200 EUR",18,"good","furniture/appliances",2100,"< 100 EUR","1 - 4 years",2,37,"store","own",1,"skilled",1,2076,0
+"39","0","> 200 EUR",10,"good","furniture/appliances",1225,"< 100 EUR","1 - 4 years",2,37,"none","own",1,"skilled",1,556,1
+"40","0","1 - 200 EUR",9,"good","furniture/appliances",458,"< 100 EUR","1 - 4 years",3,24,"none","own",1,"skilled",1,1278,0
+"41","0","unknown",30,"good","furniture/appliances",2333,"500 - 1000 EUR","> 7 years",2,30,"bank","own",1,"management",1,1369,0
+"42","0","1 - 200 EUR",12,"good","furniture/appliances",1158,"500 - 1000 EUR","1 - 4 years",1,26,"none","own",1,"skilled",1,1835,1
+"43","0","1 - 200 EUR",18,"poor","renovations",6204,"< 100 EUR","1 - 4 years",4,44,"none","own",1,"unskilled",2,6252,1
+"44","0","< 0 EUR",30,"critical","car",6187,"100 - 500 EUR","4 - 7 years",4,24,"none","rent",2,"skilled",1,5777,0
+"45","1","< 0 EUR",48,"critical","car",6143,"< 100 EUR","> 7 years",4,58,"store","other",2,"unskilled",1,5728,0
+"46","0","unknown",11,"critical","car",1393,"< 100 EUR","< 1 year",4,35,"none","own",2,"management",1,2087,0
+"47","0","unknown",36,"good","furniture/appliances",2299,"500 - 1000 EUR","> 7 years",4,39,"none","own",1,"skilled",1,1842,0
+"48","0","< 0 EUR",6,"good","car",1352,"500 - 1000 EUR","unemployed",2,23,"none","rent",1,"unemployed",1,2293,1
+"49","0","unknown",11,"critical","car",7228,"< 100 EUR","1 - 4 years",4,39,"none","own",2,"unskilled",1,7588,0
+"50","0","unknown",12,"good","furniture/appliances",2073,"100 - 500 EUR","1 - 4 years",2,28,"none","own",1,"skilled",1,2904,0
+"51","0","1 - 200 EUR",24,"poor","furniture/appliances",2333,"unknown","< 1 year",2,29,"bank","own",1,"unskilled",1,2732,0
+"52","0","1 - 200 EUR",27,"poor","car",5965,"< 100 EUR","> 7 years",2,30,"none","own",2,"management",1,5676,1
+"53","0","unknown",12,"good","furniture/appliances",1262,"< 100 EUR","1 - 4 years",2,25,"none","own",1,"skilled",1,345,0
+"54","0","unknown",18,"good","car",3378,"unknown","1 - 4 years",1,31,"none","own",1,"skilled",1,4325,1
+"55","1","1 - 200 EUR",36,"poor","car",2225,"< 100 EUR","> 7 years",4,57,"bank","other",2,"skilled",1,2109,1
+"56","0","unknown",6,"very good","car",783,"unknown","1 - 4 years",2,26,"store","own",1,"unskilled",2,1067,0
+"57","1","1 - 200 EUR",12,"good","furniture/appliances",6468,"unknown","unemployed",1,52,"none","own",1,"management",1,6578,1
+"58","0","unknown",36,"critical","furniture/appliances",9566,"< 100 EUR","1 - 4 years",2,31,"store","own",2,"skilled",1,8749,0
+"59","0","> 200 EUR",18,"good","car",1961,"< 100 EUR","> 7 years",2,23,"none","own",1,"management",1,2477,0
+"60","1","< 0 EUR",36,"critical","furniture/appliances",6229,"< 100 EUR","< 1 year",4,23,"none","rent",2,"unskilled",1,5657,1
+"61","0","1 - 200 EUR",9,"good","business",1391,"< 100 EUR","1 - 4 years",1,27,"bank","own",1,"skilled",1,1488,1
+"62","0","1 - 200 EUR",15,"critical","furniture/appliances",1537,"unknown","> 7 years",4,50,"none","own",2,"skilled",1,2110,1
+"63","1","1 - 200 EUR",36,"perfect","business",1953,"< 100 EUR","> 7 years",4,61,"none","other",1,"management",1,2719,1
+"64","1","1 - 200 EUR",48,"perfect","business",14421,"< 100 EUR","1 - 4 years",2,25,"none","own",1,"skilled",1,14709,1
+"65","0","unknown",24,"good","furniture/appliances",3181,"< 100 EUR","< 1 year",4,26,"none","own",1,"skilled",1,3616,1
+"66","0","unknown",27,"good","renovations",5190,"unknown","> 7 years",4,48,"none","own",4,"skilled",2,4448,1
+"67","0","unknown",12,"good","furniture/appliances",2171,"< 100 EUR","< 1 year",2,29,"bank","own",1,"skilled",1,2690,0
+"68","0","1 - 200 EUR",12,"good","car",1007,"> 1000 EUR","1 - 4 years",1,22,"none","own",1,"skilled",1,1558,0
+"69","1","unknown",36,"good","education",1819,"< 100 EUR","1 - 4 years",4,37,"store","other",1,"skilled",1,1391,1
+"70","0","unknown",36,"good","furniture/appliances",2394,"unknown","1 - 4 years",4,25,"none","own",1,"skilled",1,2568,0
+"71","0","unknown",36,"good","car",8133,"< 100 EUR","1 - 4 years",2,30,"bank","own",1,"skilled",1,7702,0
+"72","0","unknown",7,"critical","furniture/appliances",730,"unknown","> 7 years",2,46,"none","rent",2,"unskilled",1,1163,1
+"73","0","< 0 EUR",8,"critical","car0",1164,"< 100 EUR","> 7 years",4,51,"bank","other",2,"management",2,1531,1
+"74","0","1 - 200 EUR",42,"critical","business",5954,"< 100 EUR","4 - 7 years",1,41,"bank","own",2,"unskilled",1,5121,0
+"75","1","< 0 EUR",36,"good","education",1977,"unknown","> 7 years",4,40,"none","own",1,"management",1,1777,1
+"76","0","< 0 EUR",12,"critical","car",1526,"< 100 EUR","> 7 years",4,66,"none","other",2,"management",1,1129,0
+"77","1","< 0 EUR",42,"good","furniture/appliances",3965,"< 100 EUR","< 1 year",3,34,"none","own",1,"skilled",1,3268,0
+"78","0","1 - 200 EUR",11,"poor","furniture/appliances",4771,"< 100 EUR","4 - 7 years",4,51,"none","own",1,"skilled",1,3933,0
+"79","0","unknown",54,"perfect","car",9436,"unknown","1 - 4 years",2,39,"none","own",1,"unskilled",2,10133,0
+"80","0","1 - 200 EUR",30,"good","furniture/appliances",3832,"< 100 EUR","< 1 year",1,22,"none","own",1,"skilled",1,3362,0
+"81","1","unknown",24,"good","furniture/appliances",5943,"unknown","< 1 year",1,44,"none","own",2,"skilled",1,5022,1
+"82","0","unknown",15,"good","furniture/appliances",1213,"500 - 1000 EUR","> 7 years",3,47,"store","own",1,"skilled",1,1695,1
+"83","0","unknown",18,"good","business",1568,"100 - 500 EUR","1 - 4 years",4,24,"none","rent",1,"unskilled",1,1501,0
+"84","0","< 0 EUR",24,"good","car0",1755,"< 100 EUR","> 7 years",4,58,"none","own",1,"unskilled",1,2255,1
+"85","0","< 0 EUR",10,"good","furniture/appliances",2315,"< 100 EUR","> 7 years",4,52,"none","own",1,"unskilled",1,2156,0
+"86","0","unknown",12,"critical","business",1412,"< 100 EUR","1 - 4 years",2,29,"none","own",2,"management",1,625,1
+"87","0","1 - 200 EUR",18,"critical","furniture/appliances",1295,"< 100 EUR","< 1 year",1,27,"none","own",2,"skilled",1,2057,0
+"88","1","1 - 200 EUR",36,"good","education",12612,"100 - 500 EUR","1 - 4 years",4,47,"none","other",1,"skilled",2,12325,1
+"89","0","< 0 EUR",18,"good","car",2249,"100 - 500 EUR","4 - 7 years",3,30,"none","own",1,"management",2,2664,1
+"90","1","< 0 EUR",12,"perfect","renovations",1108,"< 100 EUR","4 - 7 years",3,28,"none","own",2,"skilled",1,2016,0
+"91","0","unknown",12,"critical","furniture/appliances",618,"< 100 EUR","> 7 years",4,56,"none","own",1,"skilled",1,-186,0
+"92","0","< 0 EUR",12,"critical","car",1409,"< 100 EUR","> 7 years",3,54,"none","own",1,"skilled",1,1374,0
+"93","1","unknown",12,"critical","furniture/appliances",797,"unknown","> 7 years",3,33,"bank","own",1,"unskilled",2,813,0
+"94","0","> 200 EUR",24,"critical","furniture/appliances",3617,"unknown","> 7 years",4,20,"none","rent",2,"skilled",1,3040,0
+"95","0","1 - 200 EUR",12,"good","car",1318,"> 1000 EUR","> 7 years",4,54,"none","own",1,"skilled",1,550,1
+"96","1","1 - 200 EUR",54,"perfect","business",15945,"< 100 EUR","< 1 year",4,58,"none","rent",1,"skilled",1,16251,1
+"97","0","unknown",12,"critical","education",2012,"unknown","4 - 7 years",2,61,"none","own",1,"skilled",1,2868,0
+"98","0","1 - 200 EUR",18,"good","business",2622,"100 - 500 EUR","1 - 4 years",4,34,"none","own",1,"skilled",1,2737,0
+"99","0","1 - 200 EUR",36,"critical","furniture/appliances",2337,"< 100 EUR","> 7 years",4,36,"none","own",1,"skilled",1,2382,0
+"100","0","1 - 200 EUR",20,"poor",NA,7057,"unknown","4 - 7 years",4,36,"bank","rent",2,"management",2,6741,1
+"101","0","unknown",24,"good",NA,1469,"100 - 500 EUR","> 7 years",4,41,"none","rent",1,"unskilled",1,2026,0
+"102","0","1 - 200 EUR",36,"good",NA,2323,"< 100 EUR","4 - 7 years",4,24,"none","rent",1,"skilled",1,3316,0
+"103","0","unknown",6,"poor",NA,932,"< 100 EUR","1 - 4 years",2,24,"none","own",1,"skilled",1,1280,0
+"104","0","1 - 200 EUR",9,"critical",NA,1919,"< 100 EUR","4 - 7 years",3,35,"none","rent",1,"skilled",1,1549,1
+"105","0","unknown",12,"good",NA,2445,"unknown","< 1 year",4,26,"none","rent",1,"skilled",1,2322,1
+"106","1","1 - 200 EUR",24,"critical",NA,11938,"< 100 EUR","1 - 4 years",3,39,"none","own",2,"management",2,12316,1
+"107","1","unknown",18,"very good",NA,6458,"< 100 EUR","> 7 years",4,39,"bank","own",2,"management",2,6699,1
+"108","0","1 - 200 EUR",12,"good",NA,6078,"< 100 EUR","4 - 7 years",2,32,"none","own",1,"skilled",1,6187,0
+"109","0","< 0 EUR",24,"good",NA,7721,"unknown","< 1 year",2,30,"none","own",1,"skilled",1,8545,1
+"110","0","1 - 200 EUR",14,"good",NA,1410,"500 - 1000 EUR","> 7 years",2,35,"none","own",1,"skilled",1,575,1
+"111","0","1 - 200 EUR",6,"poor",NA,1449,"100 - 500 EUR","> 7 years",2,31,"bank","own",2,"skilled",2,1518,0
+"112","0","> 200 EUR",15,"good",NA,392,"< 100 EUR","< 1 year",4,23,"none","rent",1,"skilled",1,1276,1
+"113","0","1 - 200 EUR",18,"good",NA,6260,"< 100 EUR","4 - 7 years",3,28,"none","rent",1,"unskilled",1,6010,0
+"114","1","unknown",36,"critical",NA,7855,"< 100 EUR","1 - 4 years",2,25,"store","own",2,"skilled",1,7058,1
+"115","0","< 0 EUR",12,"good",NA,1680,"500 - 1000 EUR","> 7 years",1,35,"none","own",1,"skilled",1,2355,0
+"116","0","unknown",48,"critical",NA,3578,"unknown","> 7 years",1,47,"none","own",1,"skilled",1,4131,1
+"117","1","< 0 EUR",42,"good",NA,7174,"unknown","4 - 7 years",3,30,"none","own",1,"management",1,7363,1
+"118","0","< 0 EUR",10,"critical",NA,2132,"unknown","< 1 year",3,27,"none","rent",2,"skilled",1,1797,0
+"119","1","< 0 EUR",33,"critical",NA,4281,"500 - 1000 EUR","1 - 4 years",4,23,"none","own",2,"skilled",1,5076,0
+"120","0","1 - 200 EUR",12,"critical",NA,2366,"500 - 1000 EUR","4 - 7 years",3,36,"none","own",1,"management",1,3208,1
+"121","1","< 0 EUR",21,"good",NA,1835,"< 100 EUR","1 - 4 years",2,25,"none","own",2,"skilled",1,2318,1
+"122","0","unknown",24,"critical",NA,3868,"< 100 EUR","> 7 years",2,41,"none","rent",2,"management",1,4098,1
+"123","0","unknown",12,"good",NA,1768,"< 100 EUR","1 - 4 years",2,24,"none","rent",1,"unskilled",1,1523,0
+"124","0","> 200 EUR",10,"critical",NA,781,"< 100 EUR","> 7 years",4,63,"none","other",2,"skilled",1,-176,1
+"125","1","1 - 200 EUR",18,"good",NA,1924,"unknown","< 1 year",3,27,"none","rent",1,"skilled",1,1375,0
+"126","0","< 0 EUR",12,"critical",NA,2121,"< 100 EUR","1 - 4 years",2,30,"none","own",2,"skilled",1,1744,0
+"127","0","< 0 EUR",12,"good",NA,701,"< 100 EUR","1 - 4 years",2,40,"none","own",1,"unskilled",1,182,0
+"128","1","1 - 200 EUR",12,"good",NA,639,"< 100 EUR","1 - 4 years",2,30,"none","own",1,"skilled",1,1287,0
+"129","0","1 - 200 EUR",12,"critical",NA,1860,"< 100 EUR","unemployed",2,34,"none","own",2,"management",1,1078,1
+"130","1","< 0 EUR",12,"critical",NA,3499,"< 100 EUR","1 - 4 years",2,29,"none","own",2,"skilled",1,4022,0
+"131","0","1 - 200 EUR",48,"good",NA,8487,"unknown","4 - 7 years",2,24,"none","own",1,"skilled",1,8048,0
+"132","1","< 0 EUR",36,"poor",NA,6887,"< 100 EUR","1 - 4 years",3,29,"store","own",1,"skilled",1,6963,1
+"133","0","unknown",15,"good",NA,2708,"< 100 EUR","< 1 year",3,27,"bank","own",2,"unskilled",1,3535,0
+"134","0","unknown",18,"good",NA,1984,"< 100 EUR","1 - 4 years",4,47,"bank","other",2,"skilled",1,1845,0
+"135","0","unknown",60,"good",NA,10144,"100 - 500 EUR","4 - 7 years",4,21,"none","own",1,"skilled",1,9644,1
+"136","0","unknown",12,"critical",NA,1240,"unknown","> 7 years",2,38,"none","own",2,"skilled",1,1531,1
+"137","0","unknown",27,"poor",NA,8613,"> 1000 EUR","1 - 4 years",2,27,"none","own",2,"skilled",1,8765,0
+"138","1","1 - 200 EUR",12,"good",NA,766,"500 - 1000 EUR","1 - 4 years",3,66,"none","own",1,"unskilled",1,568,0
+"139","0","1 - 200 EUR",15,"critical",NA,2728,"unknown","4 - 7 years",2,35,"bank","own",3,"skilled",1,3328,1
+"140","0","> 200 EUR",12,"good",NA,1881,"< 100 EUR","1 - 4 years",2,44,"none","rent",1,"unskilled",1,2186,1
+"141","0","> 200 EUR",6,"good",NA,709,"> 1000 EUR","< 1 year",2,27,"none","own",1,"unemployed",1,1569,0
+"142","0","1 - 200 EUR",36,"good",NA,4795,"< 100 EUR","< 1 year",1,30,"none","own",1,"management",1,5769,1
+"143","0","< 0 EUR",27,"good",NA,3416,"< 100 EUR","1 - 4 years",2,27,"none","own",1,"management",1,3498,0
+"144","1","< 0 EUR",18,"good",NA,2462,"< 100 EUR","1 - 4 years",2,22,"none","own",1,"skilled",1,2097,0
+"145","0","unknown",21,"critical",NA,2288,"< 100 EUR","< 1 year",4,23,"none","own",1,"skilled",1,3000,1
+"146","0","1 - 200 EUR",48,"very good",NA,3566,"100 - 500 EUR","4 - 7 years",2,30,"none","own",1,"skilled",1,2822,0
+"147","0","< 0 EUR",6,"critical",NA,860,"< 100 EUR","> 7 years",4,39,"none","own",2,"skilled",1,1212,1
+"148","0","unknown",12,"critical",NA,682,"100 - 500 EUR","4 - 7 years",3,51,"none","own",2,"skilled",1,1296,1
+"149","0","< 0 EUR",36,"critical",NA,5371,"< 100 EUR","1 - 4 years",2,28,"none","own",2,"skilled",1,5865,0
+"150","0","unknown",18,"critical",NA,1582,"> 1000 EUR","> 7 years",4,46,"none","own",2,"skilled",1,1178,0
+"151","0","unknown",6,"good",NA,1346,"100 - 500 EUR","> 7 years",4,42,"bank","other",1,"skilled",2,463,1
+"152","0","unknown",10,"good",NA,1924,"< 100 EUR","1 - 4 years",4,38,"none","own",1,"skilled",1,1017,1
+"153","0","> 200 EUR",36,"good",NA,5848,"< 100 EUR","1 - 4 years",1,24,"none","own",1,"skilled",1,5155,0
+"154","0","1 - 200 EUR",24,"critical",NA,7758,"> 1000 EUR","> 7 years",4,29,"none","rent",1,"skilled",1,7013,0
+"155","0","1 - 200 EUR",24,"poor",NA,6967,"100 - 500 EUR","4 - 7 years",4,36,"none","rent",1,"management",1,6383,1
+"156","1","< 0 EUR",12,"good",NA,1282,"< 100 EUR","1 - 4 years",4,20,"none","rent",1,"skilled",1,409,0
+"157","0","< 0 EUR",9,"critical",NA,1288,"100 - 500 EUR","> 7 years",4,48,"none","own",2,"skilled",2,512,0
+"158","0","< 0 EUR",12,"very good",NA,339,"< 100 EUR","> 7 years",1,45,"bank","own",1,"unskilled",1,1300,0
+"159","0","1 - 200 EUR",24,"good",NA,3512,"100 - 500 EUR","4 - 7 years",3,38,"bank","own",2,"skilled",1,3671,1
+"160","0","unknown",6,"critical",NA,1898,"unknown","1 - 4 years",2,34,"none","own",2,"unskilled",2,1641,0
+"161","0","unknown",24,"critical",NA,2872,"100 - 500 EUR","> 7 years",4,36,"none","own",1,"skilled",2,2443,1
+"162","0","unknown",18,"critical",NA,1055,"< 100 EUR","< 1 year",1,30,"none","own",2,"skilled",1,1501,0
+"163","0","unknown",15,"good",NA,1262,"500 - 1000 EUR","4 - 7 years",3,36,"none","own",2,"skilled",1,1248,1
+"164","0","1 - 200 EUR",10,"good",NA,7308,"< 100 EUR","unemployed",4,70,"bank","other",1,"management",1,7127,1
+"165","0","unknown",36,"good",NA,909,"500 - 1000 EUR","> 7 years",4,36,"none","own",1,"skilled",1,556,0
+"166","0","unknown",6,"good",NA,2978,"500 - 1000 EUR","1 - 4 years",2,32,"none","own",1,"skilled",1,3806,1
+"167","1","< 0 EUR",18,"good",NA,1131,"< 100 EUR","unemployed",2,33,"none","own",1,"skilled",1,1605,0
+"168","0","1 - 200 EUR",11,"good",NA,1577,"> 1000 EUR","< 1 year",1,20,"none","own",1,"skilled",1,1417,0
+"169","0","unknown",24,"good",NA,3972,"< 100 EUR","4 - 7 years",4,25,"none","rent",1,"skilled",1,4630,1
+"170","1","1 - 200 EUR",24,"critical",NA,1935,"< 100 EUR","> 7 years",4,31,"none","own",2,"skilled",1,2806,1
+"171","1","< 0 EUR",15,"perfect",NA,950,"< 100 EUR","> 7 years",3,33,"none","rent",2,"skilled",2,314,0
+"172","0","unknown",12,"good",NA,763,"< 100 EUR","1 - 4 years",1,26,"none","own",1,"skilled",1,1448,1
+"173","1","1 - 200 EUR",24,"poor",NA,2064,"< 100 EUR","unemployed",2,34,"none","own",1,"management",1,2466,1
+"174","0","1 - 200 EUR",8,"good",NA,1414,"< 100 EUR","1 - 4 years",2,33,"none","own",1,"skilled",1,771,0
+"175","1","< 0 EUR",21,"poor",NA,3414,"< 100 EUR","< 1 year",1,26,"none","own",2,"skilled",1,2892,0
+"176","1","unknown",30,"very good",NA,7485,"unknown","unemployed",1,53,"bank","own",1,"management",1,7078,1
+"177","0","< 0 EUR",12,"good",NA,2577,"< 100 EUR","1 - 4 years",1,42,"none","own",1,"skilled",1,1727,0
+"178","0","< 0 EUR",6,"critical",NA,338,"500 - 1000 EUR","> 7 years",4,52,"none","own",2,"skilled",1,1011,0
+"179","0","unknown",12,"good",NA,1963,"< 100 EUR","4 - 7 years",2,31,"none","rent",2,"management",2,1515,1
+"180","0","< 0 EUR",21,"critical",NA,571,"< 100 EUR","> 7 years",4,65,"none","own",2,"skilled",1,1477,0
+"181","1","unknown",36,"poor",NA,9572,"< 100 EUR","< 1 year",1,28,"none","own",2,"skilled",1,10432,0
+"182","1","1 - 200 EUR",36,"poor",NA,4455,"< 100 EUR","1 - 4 years",2,30,"store","own",2,"management",1,3546,1
+"183","1","< 0 EUR",21,"very good",NA,1647,"unknown","1 - 4 years",2,40,"none","own",2,"unskilled",2,1594,0
+"184","0","unknown",24,"critical",NA,3777,"> 1000 EUR","1 - 4 years",4,50,"none","own",1,"skilled",1,3937,1
+"185","1","1 - 200 EUR",18,"critical",NA,884,"< 100 EUR","> 7 years",4,36,"bank","own",1,"skilled",2,630,1
+"186","0","unknown",15,"critical",NA,1360,"< 100 EUR","1 - 4 years",2,31,"none","own",2,"skilled",1,1472,0
+"187","1","1 - 200 EUR",9,"very good",NA,5129,"< 100 EUR","> 7 years",4,74,"bank","other",1,"management",2,6063,1
+"188","0","1 - 200 EUR",16,"critical",NA,1175,"< 100 EUR","unemployed",3,68,"none","other",3,"unemployed",1,192,1
+"189","1","< 0 EUR",12,"good",NA,674,"100 - 500 EUR","4 - 7 years",1,20,"none","own",1,"skilled",1,746,0
+"190","0","1 - 200 EUR",18,"perfect",NA,3244,"< 100 EUR","1 - 4 years",4,33,"bank","own",2,"skilled",1,3564,1
+"191","1","unknown",24,"good",NA,4591,"> 1000 EUR","1 - 4 years",3,54,"none","own",3,"management",1,4292,1
+"192","1","1 - 200 EUR",48,"perfect",NA,3844,"100 - 500 EUR","4 - 7 years",4,34,"none","other",1,"unskilled",2,4504,0
+"193","1","1 - 200 EUR",27,"good",NA,3915,"< 100 EUR","1 - 4 years",2,36,"none","own",1,"skilled",2,4861,1
+"194","0","unknown",6,"good",NA,2108,"< 100 EUR","4 - 7 years",2,29,"none","rent",1,"skilled",1,1733,0
+"195","1","1 - 200 EUR",45,"good",NA,3031,"100 - 500 EUR","1 - 4 years",4,21,"none","rent",1,"skilled",1,2664,0
+"196","1","1 - 200 EUR",9,"critical",NA,1501,"< 100 EUR","> 7 years",3,34,"none","own",2,"management",1,1647,1
+"197","0","unknown",6,"critical",NA,1382,"< 100 EUR","1 - 4 years",1,28,"none","own",2,"skilled",1,859,1
+"198","1","1 - 200 EUR",12,"good",NA,951,"100 - 500 EUR","< 1 year",4,27,"bank","rent",4,"skilled",1,1735,0
+"199","0","1 - 200 EUR",24,"good",NA,2760,"unknown","> 7 years",4,36,"bank","other",1,"skilled",1,3660,1
+"200","1","1 - 200 EUR",18,"poor",NA,4297,"< 100 EUR","> 7 years",3,40,"none","own",1,"management",1,5266,1
+"201","0","unknown",9,"critical",NA,936,"500 - 1000 EUR","> 7 years",2,52,"none","own",2,"skilled",1,-36,1
+"202","0","< 0 EUR",12,"good",NA,1168,"< 100 EUR","1 - 4 years",3,27,"none","own",1,"unskilled",1,1351,0
+"203","0","unknown",27,"poor",NA,5117,"< 100 EUR","4 - 7 years",4,26,"none","own",2,"skilled",1,4917,0
+"204","1","< 0 EUR",12,"good",NA,902,"< 100 EUR","4 - 7 years",4,21,"none","rent",1,"skilled",1,185,0
+"205","0","unknown",12,"critical",NA,1495,"< 100 EUR","> 7 years",1,38,"none","own",2,"unskilled",2,2479,0
+"206","0","< 0 EUR",30,"critical",NA,10623,"< 100 EUR","> 7 years",4,38,"none","other",3,"management",2,11166,1
+"207","0","unknown",12,"critical",NA,1935,"< 100 EUR","> 7 years",4,43,"none","own",3,"skilled",1,1661,1
+"208","0","1 - 200 EUR",12,"critical",NA,1424,"< 100 EUR","4 - 7 years",3,26,"none","own",1,"skilled",1,490,0
+"209","0","< 0 EUR",24,"good",NA,6568,"< 100 EUR","1 - 4 years",2,21,"store","own",1,"unskilled",1,6953,0
+"210","0","unknown",12,"good",NA,1413,"> 1000 EUR","4 - 7 years",2,55,"none","own",1,"skilled",1,1167,0
+"211","0","unknown",9,"critical",NA,3074,"unknown","1 - 4 years",2,33,"none","own",2,"skilled",2,2723,0
+"212","0","unknown",36,"good",NA,3835,"unknown","> 7 years",4,45,"none","own",1,"unskilled",1,3599,1
+"213","1","< 0 EUR",27,"perfect",NA,5293,"< 100 EUR","unemployed",4,50,"store","own",2,"skilled",1,5926,1
+"214","1","> 200 EUR",30,"poor",NA,1908,"< 100 EUR","> 7 years",4,66,"none","own",1,"management",1,2633,1
+"215","0","unknown",36,"critical",NA,3342,"unknown","> 7 years",2,51,"none","own",1,"skilled",1,3530,1
+"216","0","1 - 200 EUR",6,"critical",NA,932,"unknown","4 - 7 years",3,39,"none","own",2,"unskilled",1,1677,0
+"217","0","< 0 EUR",18,"perfect",NA,3104,"< 100 EUR","4 - 7 years",1,31,"bank","own",1,"skilled",1,2418,1
+"218","0","> 200 EUR",36,"good",NA,3913,"< 100 EUR","1 - 4 years",2,23,"none","own",1,"skilled",1,3723,1
+"219","0","< 0 EUR",24,"good",NA,3021,"< 100 EUR","1 - 4 years",2,24,"none","rent",1,"unskilled",1,3882,0
+"220","0","unknown",10,"good",NA,1364,"< 100 EUR","1 - 4 years",4,64,"none","own",1,"skilled",1,2309,1
+"221","0","1 - 200 EUR",12,"good",NA,625,"< 100 EUR","< 1 year",1,26,"bank","own",1,"unskilled",1,184,0
+"222","0","< 0 EUR",12,"good",NA,1200,"unknown","1 - 4 years",4,23,"bank","rent",1,"skilled",1,933,1
+"223","0","unknown",12,"good",NA,707,"< 100 EUR","1 - 4 years",2,30,"bank","own",2,"skilled",1,-39,0
+"224","0","unknown",24,"poor",NA,2978,"unknown","1 - 4 years",4,32,"none","own",2,"skilled",2,2409,1
+"225","0","unknown",15,"good",NA,4657,"< 100 EUR","1 - 4 years",2,30,"none","own",1,"skilled",1,5127,1
+"226","0","unknown",36,"perfect",NA,2613,"< 100 EUR","1 - 4 years",2,27,"none","own",2,"skilled",1,3287,0
+"227","1","1 - 200 EUR",48,"good",NA,10961,"> 1000 EUR","4 - 7 years",2,27,"bank","own",2,"skilled",1,11186,1
+"228","1","< 0 EUR",12,"good",NA,7865,"< 100 EUR","> 7 years",4,53,"none","other",1,"management",1,7214,1
+"229","1","unknown",9,"good",NA,1478,"< 100 EUR","4 - 7 years",2,22,"none","own",1,"skilled",1,853,0
+"230","0","< 0 EUR",24,"good",NA,3149,"< 100 EUR","< 1 year",1,22,"bank","other",1,"skilled",1,3261,0
+"231","1","> 200 EUR",36,"good",NA,4210,"< 100 EUR","1 - 4 years",2,26,"none","own",1,"skilled",1,5024,0
+"232","0","unknown",9,"good",NA,2507,"500 - 1000 EUR","> 7 years",4,51,"none","other",1,"unskilled",1,2947,0
+"233","0","unknown",12,"good",NA,2141,"100 - 500 EUR","4 - 7 years",1,35,"none","own",1,"skilled",1,2172,0
+"234","0","1 - 200 EUR",18,"good",NA,866,"< 100 EUR","1 - 4 years",2,25,"none","own",1,"unskilled",1,1319,0
+"235","0","unknown",4,"critical",NA,1544,"< 100 EUR","4 - 7 years",1,42,"none","own",3,"unskilled",2,1113,0
+"236","1","< 0 EUR",24,"good",NA,1823,"< 100 EUR","unemployed",2,30,"store","own",1,"management",2,2076,0
+"237","1","1 - 200 EUR",6,"good",NA,14555,"unknown","unemployed",2,23,"none","own",1,"unemployed",1,15056,1
+"238","1","1 - 200 EUR",21,"good",NA,2767,"100 - 500 EUR","> 7 years",2,61,"bank","rent",2,"unskilled",1,2432,0
+"239","0","unknown",12,"critical",NA,1291,"< 100 EUR","1 - 4 years",2,35,"none","own",2,"skilled",1,1830,0
+"240","0","< 0 EUR",30,"good",NA,2522,"< 100 EUR","> 7 years",3,39,"none","own",1,"skilled",2,3086,0
+"241","1","< 0 EUR",24,"good",NA,915,"unknown","> 7 years",2,29,"bank","own",1,"skilled",1,638,0
+"242","0","unknown",6,"good",NA,1595,"< 100 EUR","4 - 7 years",2,51,"none","own",1,"skilled",2,902,0
+"243","1","< 0 EUR",48,"perfect",NA,4605,"< 100 EUR","> 7 years",4,24,"none","other",2,"skilled",2,4514,0
+"244","0","unknown",12,"critical",NA,1185,"< 100 EUR","1 - 4 years",2,27,"none","own",2,"skilled",1,198,0
+"245","0","unknown",12,"very good",NA,3447,"500 - 1000 EUR","1 - 4 years",3,35,"none","own",1,"unskilled",2,4345,0
+"246","0","unknown",24,"good",NA,1258,"< 100 EUR","4 - 7 years",1,25,"none","own",1,"skilled",1,1991,1
+"247","0","unknown",12,"critical",NA,717,"< 100 EUR","> 7 years",4,52,"none","own",3,"skilled",1,260,0
+"248","0","unknown",6,"perfect",NA,1204,"100 - 500 EUR","1 - 4 years",1,35,"bank","rent",1,"skilled",1,1503,0
+"249","0","> 200 EUR",24,"good",NA,1925,"< 100 EUR","1 - 4 years",2,26,"none","own",1,"skilled",1,2901,0
+"250","1","unknown",18,"good",NA,433,"< 100 EUR","unemployed",4,22,"none","rent",1,"skilled",1,897,0
+"251","0","< 0 EUR",6,"critical",NA,666,"> 1000 EUR","4 - 7 years",4,39,"none","own",2,"unskilled",1,1601,1
+"252","0","> 200 EUR",12,"good",NA,2251,"< 100 EUR","1 - 4 years",2,46,"none","own",1,"unskilled",1,2165,0
+"253","1","1 - 200 EUR",30,"good",NA,2150,"< 100 EUR","1 - 4 years",2,24,"bank","own",1,"skilled",1,2808,0
+"254","0","unknown",24,"poor",NA,4151,"100 - 500 EUR","1 - 4 years",3,35,"none","own",2,"skilled",1,3637,0
+"255","0","1 - 200 EUR",9,"good",NA,2030,"unknown","4 - 7 years",1,24,"none","own",1,"skilled",1,1633,1
+"256","0","1 - 200 EUR",60,"poor",NA,7418,"unknown","1 - 4 years",1,27,"none","own",1,"unskilled",1,7822,0
+"257","0","unknown",24,"critical",NA,2684,"< 100 EUR","1 - 4 years",2,35,"none","own",2,"unskilled",1,2020,0
+"258","1","< 0 EUR",12,"very good",NA,2149,"< 100 EUR","1 - 4 years",1,29,"none","other",1,"skilled",1,2408,0
+"259","0","unknown",15,"good",NA,3812,"100 - 500 EUR","< 1 year",4,23,"none","own",1,"skilled",1,3214,1
+"260","0","unknown",11,"critical",NA,1154,"100 - 500 EUR","unemployed",4,57,"none","own",3,"unskilled",1,838,0
+"261","0","< 0 EUR",12,"good",NA,1657,"< 100 EUR","1 - 4 years",2,27,"none","own",1,"skilled",1,2047,0
+"262","0","< 0 EUR",24,"good",NA,1603,"< 100 EUR","> 7 years",4,55,"none","own",1,"skilled",1,2388,0
+"263","0","< 0 EUR",18,"critical",NA,5302,"< 100 EUR","> 7 years",4,36,"none","other",3,"management",1,4845,1
+"264","0","unknown",12,"critical",NA,2748,"< 100 EUR","> 7 years",4,57,"bank","other",3,"unskilled",1,2205,0
+"265","0","unknown",10,"critical",NA,1231,"< 100 EUR","> 7 years",4,32,"none","own",2,"unskilled",2,1628,0
+"266","1","1 - 200 EUR",15,"good",NA,802,"< 100 EUR","> 7 years",3,37,"none","own",1,"skilled",2,1344,0
+"267","0","unknown",36,"critical",NA,6304,"unknown","> 7 years",4,36,"none","own",2,"skilled",1,6124,0
+"268","0","unknown",24,"good",NA,1533,"< 100 EUR","< 1 year",3,38,"store","own",1,"skilled",1,1344,1
+"269","1","< 0 EUR",14,"good",NA,8978,"< 100 EUR","> 7 years",4,45,"none","own",1,"management",1,8317,1
+"270","0","unknown",24,"good",NA,999,"unknown","> 7 years",2,25,"none","own",2,"skilled",1,988,0
+"271","0","unknown",18,"good",NA,2662,"unknown","4 - 7 years",3,32,"none","own",1,"skilled",1,2329,0
+"272","0","unknown",12,"critical",NA,1402,"500 - 1000 EUR","4 - 7 years",4,37,"none","rent",1,"skilled",1,1936,1
+"273","0","1 - 200 EUR",48,"very good",NA,12169,"unknown","unemployed",4,36,"none","other",1,"management",1,11510,1
+"274","1","1 - 200 EUR",48,"good",NA,3060,"< 100 EUR","4 - 7 years",4,28,"none","own",2,"skilled",1,2798,0
+"275","1","< 0 EUR",30,"good",NA,11998,"< 100 EUR","< 1 year",1,34,"none","own",1,"unskilled",1,11347,1
+"276","0","unknown",9,"good",NA,2697,"< 100 EUR","1 - 4 years",2,32,"none","own",1,"skilled",2,3331,0
+"277","0","unknown",18,"critical",NA,2404,"< 100 EUR","1 - 4 years",2,26,"none","own",2,"skilled",1,3049,0
+"278","0","< 0 EUR",12,"good",NA,1262,"unknown","> 7 years",4,49,"none","own",1,"unskilled",1,1882,1
+"279","1","unknown",6,"good",NA,4611,"< 100 EUR","< 1 year",4,32,"none","own",1,"skilled",1,3926,0
+"280","0","unknown",24,"good",NA,1901,"100 - 500 EUR","1 - 4 years",4,29,"none","rent",1,"management",1,1196,1
+"281","0","unknown",15,"critical",NA,3368,"> 1000 EUR","> 7 years",4,23,"none","rent",2,"skilled",1,3956,1
+"282","0","unknown",12,"good",NA,1574,"< 100 EUR","1 - 4 years",2,50,"none","own",1,"skilled",1,1297,0
+"283","0","> 200 EUR",18,"very good",NA,1445,"unknown","4 - 7 years",4,49,"bank","own",1,"unskilled",1,1003,0
+"284","0","unknown",15,"critical",NA,1520,"unknown","> 7 years",4,63,"none","own",1,"skilled",1,1543,0
+"285","0","1 - 200 EUR",24,"critical",NA,3878,"100 - 500 EUR","< 1 year",2,37,"none","own",1,"skilled",1,3804,1
+"286","0","< 0 EUR",47,"good",NA,10722,"< 100 EUR","< 1 year",1,35,"none","own",1,"unskilled",1,9778,1
+"287","0","< 0 EUR",48,"good",NA,4788,"< 100 EUR","4 - 7 years",3,26,"none","own",1,"skilled",2,4140,0
+"288","0","1 - 200 EUR",48,"poor",NA,7582,"100 - 500 EUR","unemployed",4,31,"none","other",1,"management",1,6757,1
+"289","0","1 - 200 EUR",12,"good",NA,1092,"< 100 EUR","1 - 4 years",4,49,"none","own",2,"skilled",1,1474,1
+"290","1","< 0 EUR",24,"poor",NA,1024,"< 100 EUR","< 1 year",4,48,"store","own",1,"skilled",1,1121,0
+"291","0","unknown",12,"good",NA,1076,"< 100 EUR","1 - 4 years",2,26,"none","own",1,"skilled",1,751,1
+"292","1","1 - 200 EUR",36,"good",NA,9398,"< 100 EUR","< 1 year",4,28,"none","rent",1,"management",1,8521,1
+"293","0","< 0 EUR",24,"critical",NA,6419,"< 100 EUR","> 7 years",4,44,"none","other",2,"management",2,7047,1
+"294","0","> 200 EUR",42,"critical",NA,4796,"< 100 EUR","> 7 years",4,56,"none","other",1,"skilled",1,5291,0
+"295","0","unknown",48,"critical",NA,7629,"unknown","> 7 years",2,46,"bank","own",2,"management",2,6710,0
+"296","1","1 - 200 EUR",48,"good",NA,9960,"< 100 EUR","< 1 year",2,26,"none","own",1,"skilled",1,10244,1
+"297","0","unknown",12,"good",NA,4675,"unknown","< 1 year",4,20,"none","rent",1,"skilled",1,4680,0
+"298","0","unknown",10,"good",NA,1287,"unknown","> 7 years",2,45,"none","own",1,"unskilled",1,643,0
+"299","0","unknown",18,"good",NA,2515,"< 100 EUR","1 - 4 years",4,43,"none","own",1,"skilled",1,1811,1
+"300","0","1 - 200 EUR",21,"critical",NA,2745,"> 1000 EUR","4 - 7 years",2,32,"none","own",2,"skilled",1,1754,1
+"301","0","unknown",6,"good",NA,672,"< 100 EUR","unemployed",4,54,"none","own",1,"unemployed",1,642,1
+"302","1","1 - 200 EUR",36,"perfect",NA,3804,"< 100 EUR","1 - 4 years",1,42,"none","own",1,"skilled",1,2956,1
+"303","1","> 200 EUR",24,"critical",NA,1344,"unknown","4 - 7 years",2,37,"bank","own",2,"unskilled",2,2189,0
+"304","0","< 0 EUR",10,"critical",NA,1038,"< 100 EUR","4 - 7 years",3,49,"none","own",2,"skilled",1,1714,1
+"305","1","unknown",48,"critical",NA,10127,"500 - 1000 EUR","1 - 4 years",2,44,"bank","other",1,"skilled",1,9802,0
+"306","0","unknown",6,"good",NA,1543,"> 1000 EUR","1 - 4 years",2,33,"none","own",1,"skilled",1,2198,0
+"307","0","unknown",30,"good",NA,4811,"unknown","4 - 7 years",4,24,"store","rent",1,"unskilled",1,5249,0
+"308","1","< 0 EUR",12,"good",NA,727,"100 - 500 EUR","< 1 year",3,33,"none","own",1,"unskilled",1,1275,1
+"309","1","1 - 200 EUR",8,"good",NA,1237,"< 100 EUR","1 - 4 years",4,24,"none","own",1,"skilled",1,752,0
+"310","0","1 - 200 EUR",9,"good",NA,276,"< 100 EUR","1 - 4 years",4,22,"none","rent",1,"unskilled",1,-630,0
+"311","0","1 - 200 EUR",48,"good",NA,5381,"unknown","unemployed",4,40,"bank","other",1,"unemployed",1,6088,1
+"312","0","unknown",24,"good",NA,5511,"100 - 500 EUR","1 - 4 years",1,25,"store","own",1,"skilled",1,6355,0
+"313","0","> 200 EUR",24,"good",NA,3749,"< 100 EUR","< 1 year",4,26,"none","own",1,"skilled",1,3041,0
+"314","1","1 - 200 EUR",12,"good",NA,685,"< 100 EUR","4 - 7 years",3,25,"bank","own",1,"unskilled",1,374,0
+"315","0","> 200 EUR",4,"good",NA,1494,"unknown","< 1 year",2,29,"none","own",1,"unskilled",2,1079,0
+"316","1","< 0 EUR",36,"very good",NA,2746,"< 100 EUR","> 7 years",4,31,"bank","own",1,"skilled",1,3626,0
+"317","0","< 0 EUR",12,"good",NA,708,"< 100 EUR","1 - 4 years",3,38,"none","own",1,"unskilled",2,465,0
+"318","0","1 - 200 EUR",24,"good",NA,4351,"unknown","1 - 4 years",4,48,"none","own",1,"unskilled",1,3984,1
+"319","0","unknown",12,"critical",NA,701,"< 100 EUR","1 - 4 years",2,32,"none","own",2,"skilled",1,-253,0
+"320","0","< 0 EUR",15,"poor",NA,3643,"< 100 EUR","> 7 years",4,27,"none","own",2,"unskilled",1,4063,0
+"321","1","1 - 200 EUR",30,"critical",NA,4249,"< 100 EUR","unemployed",2,28,"none","own",2,"management",1,5203,0
+"322","1","< 0 EUR",24,"good",NA,1938,"< 100 EUR","< 1 year",3,32,"none","own",1,"skilled",1,1266,0
+"323","0","< 0 EUR",24,"good",NA,2910,"< 100 EUR","4 - 7 years",1,34,"none","other",1,"management",1,2937,1
+"324","0","< 0 EUR",18,"good",NA,2659,"> 1000 EUR","1 - 4 years",2,28,"none","own",1,"skilled",1,2434,0
+"325","0","unknown",18,"critical",NA,1028,"< 100 EUR","1 - 4 years",3,36,"none","own",2,"skilled",1,1552,0
+"326","0","< 0 EUR",8,"critical",NA,3398,"< 100 EUR","4 - 7 years",4,39,"none","own",2,"unskilled",1,4244,0
+"327","0","unknown",12,"critical",NA,5801,"unknown","> 7 years",4,49,"none","rent",1,"skilled",1,6124,1
+"328","0","unknown",24,"good",NA,1525,"> 1000 EUR","4 - 7 years",3,34,"none","own",1,"skilled",2,2178,1
+"329","0","> 200 EUR",36,"good",NA,4473,"< 100 EUR","> 7 years",2,31,"none","own",1,"skilled",1,4341,0
+"330","0","1 - 200 EUR",6,"good",NA,1068,"< 100 EUR","> 7 years",4,28,"none","own",1,"skilled",2,622,0
+"331","0","< 0 EUR",24,"critical",NA,6615,"< 100 EUR","unemployed",4,75,"none","other",2,"management",1,5686,1
+"332","1","unknown",18,"critical",NA,1864,"100 - 500 EUR","1 - 4 years",2,30,"none","own",2,"skilled",1,2783,0
+"333","1","1 - 200 EUR",60,"good",NA,7408,"100 - 500 EUR","< 1 year",2,24,"none","own",1,"management",1,7606,0
+"334","1","unknown",48,"critical",NA,11590,"100 - 500 EUR","1 - 4 years",4,24,"bank","rent",2,"unskilled",1,10637,0
+"335","1","< 0 EUR",24,"perfect",NA,4110,"< 100 EUR","> 7 years",4,23,"bank","rent",2,"skilled",2,4247,0
+"336","1","< 0 EUR",6,"critical",NA,3384,"< 100 EUR","1 - 4 years",4,44,"none","rent",1,"management",1,2553,1
+"337","0","1 - 200 EUR",13,"good",NA,2101,"< 100 EUR","< 1 year",4,23,"none","own",1,"unskilled",1,2247,0
+"338","1","< 0 EUR",15,"good",NA,1275,"unknown","1 - 4 years",2,24,"none","rent",1,"skilled",1,888,0
+"339","0","< 0 EUR",24,"good",NA,4169,"< 100 EUR","1 - 4 years",4,28,"none","own",1,"skilled",1,5135,0
+"340","0","1 - 200 EUR",10,"good",NA,1521,"< 100 EUR","1 - 4 years",2,31,"none","own",1,"unskilled",1,712,0
+"341","0","1 - 200 EUR",24,"critical",NA,5743,"< 100 EUR","< 1 year",4,24,"none","other",2,"skilled",1,5052,1
+"342","0","< 0 EUR",21,"good",NA,3599,"< 100 EUR","4 - 7 years",4,26,"none","rent",1,"unskilled",1,4381,0
+"343","0","1 - 200 EUR",18,"good",NA,3213,"500 - 1000 EUR","< 1 year",3,25,"none","rent",1,"skilled",1,2346,0
+"344","0","1 - 200 EUR",18,"good",NA,4439,"< 100 EUR","> 7 years",1,33,"bank","own",1,"management",1,3996,1
+"345","0","> 200 EUR",10,"good",NA,3949,"< 100 EUR","< 1 year",1,37,"none","own",1,"unskilled",2,3343,0
+"346","0","unknown",15,"critical",NA,1459,"< 100 EUR","1 - 4 years",2,43,"none","own",1,"unskilled",1,1771,0
+"347","0","1 - 200 EUR",13,"critical",NA,882,"< 100 EUR","< 1 year",4,23,"none","own",2,"skilled",1,437,0
+"348","0","1 - 200 EUR",24,"good",NA,3758,"500 - 1000 EUR","unemployed",4,23,"none","rent",1,"unemployed",1,4114,0
+"349","0","unknown",6,"poor",NA,1743,"100 - 500 EUR","1 - 4 years",2,34,"none","own",2,"unskilled",1,2676,0
+"350","1","1 - 200 EUR",9,"critical",NA,1136,"> 1000 EUR","> 7 years",3,32,"none","other",2,"skilled",2,383,0
+"351","0","unknown",9,"good",NA,1236,"< 100 EUR","< 1 year",4,23,"none","rent",1,"skilled",1,941,1
+"352","1","1 - 200 EUR",9,"good",NA,959,"< 100 EUR","1 - 4 years",2,29,"none","own",1,"skilled",1,943,0
+"353","0","unknown",18,"critical",NA,3229,"unknown","unemployed",4,38,"none","own",1,"management",1,2278,1
+"354","1","< 0 EUR",12,"perfect",NA,6199,"< 100 EUR","1 - 4 years",2,28,"none","rent",2,"skilled",1,5639,1
+"355","0","unknown",10,"good",NA,727,"500 - 1000 EUR","> 7 years",4,46,"none","other",1,"skilled",1,670,1
+"356","1","1 - 200 EUR",24,"good",NA,1246,"< 100 EUR","< 1 year",2,23,"store","own",1,"unskilled",1,2090,0
+"357","0","unknown",12,"critical",NA,2331,"unknown","> 7 years",4,49,"none","own",1,"skilled",1,2896,1
+"358","1","unknown",36,"poor",NA,4463,"< 100 EUR","1 - 4 years",2,26,"none","own",2,"management",1,4168,1
+"359","0","unknown",12,"good",NA,776,"< 100 EUR","1 - 4 years",2,28,"none","own",1,"skilled",1,461,0
+"360","1","< 0 EUR",30,"good",NA,2406,"< 100 EUR","4 - 7 years",4,23,"none","rent",1,"skilled",1,2675,0
+"361","0","1 - 200 EUR",18,"good",NA,1239,"unknown","1 - 4 years",4,61,"none","other",1,"skilled",1,570,0
+"362","0","> 200 EUR",12,"good",NA,3399,"unknown","> 7 years",3,37,"none","own",1,"management",1,3076,0
+"363","0","> 200 EUR",12,"poor",NA,2247,"< 100 EUR","1 - 4 years",2,36,"store","own",2,"skilled",1,2384,1
+"364","0","unknown",6,"good",NA,1766,"< 100 EUR","1 - 4 years",2,21,"none","rent",1,"skilled",1,1384,0
+"365","1","< 0 EUR",18,"good",NA,2473,"< 100 EUR","unemployed",1,25,"none","own",1,"unemployed",1,2518,0
+"366","0","unknown",12,"good",NA,1542,"< 100 EUR","4 - 7 years",4,36,"none","own",1,"skilled",1,1984,1
+"367","0","unknown",18,"critical",NA,3850,"< 100 EUR","4 - 7 years",1,27,"none","own",2,"skilled",1,3469,0
+"368","0","< 0 EUR",18,"good",NA,3650,"< 100 EUR","< 1 year",4,22,"none","rent",1,"skilled",1,3079,0
+"369","1","< 0 EUR",36,"good",NA,3446,"< 100 EUR","> 7 years",2,42,"none","own",1,"skilled",2,2821,0
+"370","0","1 - 200 EUR",18,"good",NA,3001,"< 100 EUR","4 - 7 years",4,40,"none","rent",1,"skilled",1,3170,0
+"371","0","unknown",36,"good",NA,3079,"unknown","1 - 4 years",4,36,"none","own",1,"skilled",1,3985,0
+"372","0","unknown",18,"critical",NA,6070,"< 100 EUR","> 7 years",4,33,"none","own",2,"skilled",1,5368,1
+"373","0","unknown",10,"critical",NA,2146,"< 100 EUR","< 1 year",3,23,"none","rent",2,"skilled",1,2621,0
+"374","0","unknown",60,"critical",NA,13756,"unknown","> 7 years",4,63,"bank","other",1,"management",1,14567,1
+"375","1","1 - 200 EUR",60,"very good",NA,14782,"100 - 500 EUR","> 7 years",4,60,"bank","other",2,"management",1,15663,1
+"376","1","< 0 EUR",48,"very good",NA,7685,"< 100 EUR","4 - 7 years",4,37,"none","rent",1,"skilled",1,7411,0
+"377","0","unknown",18,"poor",NA,2320,"< 100 EUR","unemployed",3,34,"none","own",2,"skilled",1,3224,0
+"378","0","unknown",7,"poor",NA,846,"unknown","> 7 years",4,36,"none","other",1,"skilled",1,597,0
+"379","1","1 - 200 EUR",36,"good",NA,14318,"< 100 EUR","> 7 years",2,57,"none","other",1,"management",1,15295,1
+"380","0","unknown",6,"critical",NA,362,"100 - 500 EUR","1 - 4 years",4,52,"none","own",2,"unskilled",1,272,0
+"381","0","< 0 EUR",20,"good",NA,2212,"unknown","4 - 7 years",4,39,"none","own",1,"skilled",1,1655,1
+"382","1","1 - 200 EUR",18,"good",NA,12976,"< 100 EUR","unemployed",4,38,"none","other",1,"management",1,12321,1
+"383","0","unknown",22,"good",NA,1283,"unknown","4 - 7 years",4,25,"none","rent",1,"skilled",1,711,0
+"384","0","> 200 EUR",12,"good",NA,1330,"< 100 EUR","< 1 year",1,26,"none","own",1,"skilled",1,1064,0
+"385","0","unknown",30,"poor",NA,4272,"100 - 500 EUR","1 - 4 years",2,26,"none","own",2,"unskilled",1,3504,0
+"386","0","unknown",18,"critical",NA,2238,"< 100 EUR","1 - 4 years",1,25,"none","own",2,"skilled",1,2725,0
+"387","0","unknown",18,"good",NA,1126,"unknown","< 1 year",2,21,"none","rent",1,"skilled",1,1439,1
+"388","0","1 - 200 EUR",18,"critical",NA,7374,"< 100 EUR","unemployed",4,40,"store","own",2,"management",1,6556,1
+"389","0","1 - 200 EUR",15,"critical",NA,2326,"500 - 1000 EUR","1 - 4 years",4,27,"bank","own",1,"skilled",1,2918,0
+"390","0","unknown",9,"good",NA,1449,"< 100 EUR","4 - 7 years",2,27,"none","own",2,"skilled",1,1761,0
+"391","0","unknown",18,"good",NA,1820,"< 100 EUR","1 - 4 years",2,30,"none","own",1,"management",1,1777,1
+"392","0","1 - 200 EUR",12,"good",NA,983,"> 1000 EUR","< 1 year",4,19,"none","rent",1,"unskilled",1,1395,0
+"393","0","< 0 EUR",36,"good",NA,3249,"< 100 EUR","4 - 7 years",4,39,"bank","other",1,"management",2,3191,1
+"394","0","< 0 EUR",6,"critical",NA,1957,"< 100 EUR","4 - 7 years",4,31,"none","own",1,"skilled",1,2801,0
+"395","0","unknown",9,"critical",NA,2406,"< 100 EUR","unemployed",3,31,"none","own",1,"management",1,3161,0
+"396","0","1 - 200 EUR",39,"poor",NA,11760,"100 - 500 EUR","4 - 7 years",3,32,"none","rent",1,"skilled",1,12502,1
+"397","0","< 0 EUR",12,"good",NA,2578,"< 100 EUR","unemployed",4,55,"none","other",1,"management",1,2816,0
+"398","0","< 0 EUR",36,"critical",NA,2348,"< 100 EUR","1 - 4 years",2,46,"none","own",2,"skilled",1,1769,1
+"399","1","1 - 200 EUR",12,"good",NA,1223,"< 100 EUR","> 7 years",1,46,"none","rent",2,"skilled",1,1025,0
+"400","0","unknown",24,"critical",NA,1516,"> 1000 EUR","1 - 4 years",1,43,"none","own",2,"unskilled",1,789,0
+"401","0","unknown",18,"good",NA,1473,"< 100 EUR","< 1 year",4,39,"none","own",1,"skilled",1,1135,1
+"402","0","1 - 200 EUR",18,"critical",NA,1887,"unknown","1 - 4 years",4,28,"bank","own",2,"skilled",1,1468,0
+"403","1","unknown",24,"poor",NA,8648,"< 100 EUR","< 1 year",2,27,"bank","own",2,"skilled",1,9165,1
+"404","0","unknown",14,"poor",NA,802,"< 100 EUR","1 - 4 years",2,27,"none","own",2,"unskilled",1,416,0
+"405","0","1 - 200 EUR",18,"poor",NA,2899,"unknown","> 7 years",4,43,"none","own",1,"skilled",2,2828,0
+"406","1","1 - 200 EUR",24,"good",NA,2039,"< 100 EUR","< 1 year",1,22,"none","own",1,"skilled",1,1228,1
+"407","0","unknown",24,"critical",NA,2197,"unknown","4 - 7 years",4,43,"none","own",2,"skilled",2,2226,1
+"408","0","< 0 EUR",15,"good",NA,1053,"< 100 EUR","< 1 year",2,27,"none","own",1,"skilled",1,542,0
+"409","0","unknown",24,"good",NA,3235,"500 - 1000 EUR","> 7 years",2,26,"none","own",1,"management",1,2567,1
+"410","1","> 200 EUR",12,"critical",NA,939,"500 - 1000 EUR","4 - 7 years",2,28,"none","own",3,"skilled",1,1776,1
+"411","0","1 - 200 EUR",24,"good",NA,1967,"< 100 EUR","> 7 years",4,20,"none","own",1,"skilled",1,1923,1
+"412","0","unknown",33,"critical",NA,7253,"< 100 EUR","4 - 7 years",2,35,"none","own",2,"management",1,7911,1
+"413","1","unknown",12,"critical",NA,2292,"< 100 EUR","unemployed",2,42,"store","own",2,"management",1,2985,1
+"414","0","unknown",10,"good",NA,1597,"500 - 1000 EUR","1 - 4 years",2,40,"none","rent",1,"unskilled",2,994,0
+"415","1","< 0 EUR",24,"good",NA,1381,"unknown","1 - 4 years",2,35,"none","own",1,"skilled",1,1476,0
+"416","0","unknown",36,"critical",NA,5842,"< 100 EUR","> 7 years",2,35,"none","own",2,"skilled",2,6701,1
+"417","1","< 0 EUR",12,"good",NA,2579,"< 100 EUR","< 1 year",1,33,"none","own",1,"unskilled",2,3482,0
+"418","0","< 0 EUR",18,"poor",NA,8471,"unknown","1 - 4 years",2,23,"none","rent",2,"skilled",1,8147,1
+"419","0","unknown",21,"good",NA,2782,"500 - 1000 EUR","4 - 7 years",2,31,"bank","own",1,"management",1,2600,0
+"420","1","1 - 200 EUR",18,"good",NA,1042,"unknown","1 - 4 years",2,33,"none","own",1,"skilled",1,317,0
+"421","0","unknown",15,"good",NA,3186,"> 1000 EUR","4 - 7 years",3,20,"none","rent",1,"skilled",1,3688,0
+"422","0","1 - 200 EUR",12,"good",NA,2028,"unknown","1 - 4 years",2,30,"none","own",1,"skilled",1,2284,0
+"423","0","1 - 200 EUR",12,"critical",NA,958,"< 100 EUR","4 - 7 years",3,47,"none","own",2,"unskilled",2,694,0
+"424","0","unknown",21,"poor",NA,1591,"100 - 500 EUR","4 - 7 years",3,34,"none","own",2,"management",1,1691,0
+"425","1","1 - 200 EUR",12,"good",NA,2762,"unknown","> 7 years",2,25,"bank","own",1,"skilled",1,1871,1
+"426","0","1 - 200 EUR",18,"good",NA,2779,"< 100 EUR","1 - 4 years",3,21,"none","rent",1,"skilled",1,2857,1
+"427","0","unknown",28,"critical",NA,2743,"< 100 EUR","> 7 years",2,29,"none","own",2,"skilled",1,3258,0
+"428","0","unknown",18,"critical",NA,1149,"> 1000 EUR","1 - 4 years",3,46,"none","own",2,"skilled",1,1190,0
+"429","0","unknown",9,"good",NA,1313,"< 100 EUR","> 7 years",4,20,"none","own",1,"skilled",1,1534,0
+"430","1","< 0 EUR",18,"critical",NA,1190,"< 100 EUR","unemployed",4,55,"none","other",3,"unemployed",2,2078,0
+"431","0","unknown",5,"good",NA,3448,"< 100 EUR","4 - 7 years",4,74,"none","own",1,"unskilled",1,3742,0
+"432","1","1 - 200 EUR",24,"good",NA,11328,"< 100 EUR","1 - 4 years",3,29,"bank","own",2,"management",1,11430,1
+"433","0","< 0 EUR",6,"critical",NA,1872,"< 100 EUR","unemployed",4,36,"none","other",3,"management",1,1138,1
+"434","0","unknown",24,"critical",NA,2058,"< 100 EUR","1 - 4 years",2,33,"none","own",2,"skilled",1,2933,1
+"435","0","< 0 EUR",9,"good",NA,2136,"< 100 EUR","1 - 4 years",2,25,"none","own",1,"skilled",1,2652,0
+"436","1","1 - 200 EUR",12,"good",NA,1484,"unknown","1 - 4 years",1,25,"none","own",1,"skilled",1,1206,1
+"437","0","unknown",6,"good",NA,660,"500 - 1000 EUR","4 - 7 years",4,23,"none","rent",1,"unskilled",1,921,0
+"438","0","unknown",24,"critical",NA,1287,"> 1000 EUR","> 7 years",4,37,"none","own",2,"skilled",1,1120,1
+"439","0","< 0 EUR",42,"critical",NA,3394,"< 100 EUR","unemployed",4,65,"none","own",2,"unemployed",1,3274,0
+"440","1","> 200 EUR",12,"very good",NA,609,"< 100 EUR","< 1 year",1,26,"none","own",1,"unemployed",1,224,0
+"441","0","unknown",12,"good",NA,1884,"< 100 EUR","> 7 years",4,39,"none","own",1,"management",1,1101,1
+"442","0","< 0 EUR",12,"good",NA,1620,"< 100 EUR","1 - 4 years",3,30,"none","own",1,"skilled",1,729,0
+"443","0","1 - 200 EUR",20,"poor",NA,2629,"< 100 EUR","1 - 4 years",3,29,"bank","own",2,"skilled",1,3524,1
+"444","1","unknown",12,"good",NA,719,"< 100 EUR","> 7 years",4,41,"bank","own",1,"unskilled",2,802,0
+"445","1","1 - 200 EUR",48,"critical",NA,5096,"< 100 EUR","1 - 4 years",3,30,"none","own",1,"management",1,4924,1
+"446","0","unknown",9,"critical",NA,1244,"unknown","> 7 years",4,41,"none","rent",2,"unskilled",1,460,0
+"447","1","< 0 EUR",36,"good",NA,1842,"< 100 EUR","< 1 year",4,34,"none","own",1,"skilled",1,1816,1
+"448","0","1 - 200 EUR",7,"good",NA,2576,"< 100 EUR","1 - 4 years",2,35,"none","own",1,"skilled",1,2310,0
+"449","0","> 200 EUR",12,"good",NA,1424,"unknown","> 7 years",4,55,"none","own",1,"management",1,2162,1
+"450","1","1 - 200 EUR",15,"poor",NA,1512,"> 1000 EUR","1 - 4 years",3,61,"store","own",2,"skilled",1,2024,0
+"451","0","unknown",36,"critical",NA,11054,"unknown","1 - 4 years",2,30,"none","own",1,"management",1,11086,1
+"452","0","unknown",6,"good",NA,518,"< 100 EUR","1 - 4 years",1,29,"none","own",1,"skilled",1,74,0
+"453","0","unknown",12,"perfect",NA,2759,"< 100 EUR","> 7 years",4,34,"none","own",2,"skilled",1,2690,0
+"454","0","unknown",24,"good",NA,2670,"< 100 EUR","> 7 years",4,35,"none","own",1,"management",1,2271,1
+"455","1","< 0 EUR",24,"good",NA,4817,"< 100 EUR","4 - 7 years",3,31,"none","own",1,"skilled",1,3920,1
+"456","0","unknown",24,"good",NA,2679,"< 100 EUR","< 1 year",1,29,"none","own",1,"management",1,2724,1
+"457","0","< 0 EUR",11,"critical",NA,3905,"< 100 EUR","1 - 4 years",2,36,"none","rent",2,"skilled",2,3936,0
+"458","1","< 0 EUR",12,"good",NA,3386,"< 100 EUR","> 7 years",4,35,"none","other",1,"skilled",1,4310,1
+"459","0","< 0 EUR",6,"good",NA,343,"< 100 EUR","< 1 year",1,27,"none","own",1,"skilled",1,-487,0
+"460","0","unknown",18,"good",NA,4594,"< 100 EUR","< 1 year",2,32,"none","own",1,"skilled",1,4440,1
+"461","0","< 0 EUR",36,"good",NA,3620,"< 100 EUR","1 - 4 years",2,37,"none","own",1,"skilled",2,3827,0
+"462","0","< 0 EUR",15,"good",NA,1721,"< 100 EUR","< 1 year",3,36,"none","own",1,"skilled",1,1308,0
+"463","0","1 - 200 EUR",12,"good",NA,3017,"< 100 EUR","< 1 year",1,34,"none","rent",1,"management",1,2924,0
+"464","0","1 - 200 EUR",12,"good",NA,754,"unknown","> 7 years",4,38,"none","own",2,"skilled",1,1339,0
+"465","0","unknown",18,"good",NA,1950,"< 100 EUR","4 - 7 years",1,34,"store","own",2,"skilled",1,2452,1
+"466","0","< 0 EUR",24,"good",NA,2924,"< 100 EUR","1 - 4 years",4,63,"bank","own",1,"skilled",2,3743,1
+"467","1","< 0 EUR",24,"poor",NA,1659,"< 100 EUR","< 1 year",2,29,"none","rent",1,"unskilled",1,747,1
+"468","0","unknown",48,"poor",NA,7238,"unknown","> 7 years",3,32,"bank","own",2,"skilled",2,6725,0
+"469","0","unknown",33,"poor",NA,2764,"< 100 EUR","1 - 4 years",2,26,"none","own",2,"skilled",1,3147,1
+"470","0","unknown",24,"poor",NA,4679,"< 100 EUR","4 - 7 years",3,35,"none","own",2,"unskilled",1,4967,1
+"471","1","1 - 200 EUR",24,"good","furniture/appliances",3092,"100 - 500 EUR","< 1 year",2,22,"none","rent",1,"skilled",1,3416,1
+"472","1","< 0 EUR",6,"good","education",448,"< 100 EUR","< 1 year",4,23,"none","own",1,"skilled",1,-207,0
+"473","1","< 0 EUR",9,"good","car",654,"< 100 EUR","1 - 4 years",3,28,"none","own",1,"unskilled",1,1153,0
+"474","0","unknown",6,"good","education",1238,"unknown","unemployed",4,36,"none","own",1,"management",2,2111,1
+"475","1","1 - 200 EUR",18,"critical","furniture/appliances",1245,"< 100 EUR","1 - 4 years",2,33,"none","own",1,"skilled",1,1556,0
+"476","1","< 0 EUR",18,"perfect","furniture/appliances",3114,"< 100 EUR","< 1 year",4,26,"none","rent",1,"skilled",1,2126,0
+"477","0","unknown",39,"good","car",2569,"500 - 1000 EUR","1 - 4 years",4,24,"none","own",1,"skilled",1,2327,0
+"478","0","> 200 EUR",24,"good","furniture/appliances",5152,"< 100 EUR","4 - 7 years",2,25,"bank","own",1,"skilled",1,4224,0
+"479","0","1 - 200 EUR",12,"good","business",1037,"100 - 500 EUR","4 - 7 years",4,39,"none","own",1,"unskilled",1,60,0
+"480","0","< 0 EUR",15,"critical","furniture/appliances",1478,"< 100 EUR","> 7 years",4,44,"none","own",2,"skilled",2,2244,1
+"481","0","1 - 200 EUR",12,"critical","furniture/appliances",3573,"< 100 EUR","1 - 4 years",1,23,"none","own",1,"unskilled",1,4310,0
+"482","0","1 - 200 EUR",24,"good","car",1201,"< 100 EUR","< 1 year",1,26,"none","own",1,"skilled",1,807,0
+"483","0","< 0 EUR",30,"good","furniture/appliances",3622,"> 1000 EUR","> 7 years",4,57,"none","rent",2,"skilled",1,3718,1
+"484","0","unknown",15,"poor","furniture/appliances",960,"> 1000 EUR","4 - 7 years",2,30,"none","own",2,"skilled",1,1451,0
+"485","0","unknown",12,"critical","car",1163,"500 - 1000 EUR","1 - 4 years",4,44,"none","own",1,"skilled",1,273,1
+"486","1","1 - 200 EUR",6,"poor","car",1209,"< 100 EUR","unemployed",4,47,"none","own",1,"management",1,853,1
+"487","0","unknown",12,"good","furniture/appliances",3077,"< 100 EUR","1 - 4 years",4,52,"none","own",1,"skilled",1,2389,1
+"488","0","unknown",24,"good","car",3757,"< 100 EUR","> 7 years",4,62,"none","other",1,"skilled",1,4174,1
+"489","0","unknown",10,"good","car",1418,"100 - 500 EUR","1 - 4 years",2,35,"none","rent",1,"unskilled",1,692,0
+"490","0","unknown",6,"good","car",3518,"< 100 EUR","1 - 4 years",3,26,"none","rent",1,"skilled",1,4291,0
+"491","0","unknown",12,"critical","furniture/appliances",1934,"< 100 EUR","> 7 years",2,26,"none","own",2,"skilled",1,2127,0
+"492","1","1 - 200 EUR",27,"perfect","business",8318,"< 100 EUR","> 7 years",4,42,"none","other",2,"management",1,8395,1
+"493","0","unknown",6,"critical","furniture/appliances",1237,"100 - 500 EUR","1 - 4 years",1,27,"none","own",2,"skilled",1,728,0
+"494","0","1 - 200 EUR",6,"good","furniture/appliances",368,"unknown","> 7 years",4,38,"none","own",1,"skilled",1,201,0
+"495","0","< 0 EUR",12,"critical","car",2122,"< 100 EUR","1 - 4 years",2,39,"none","rent",2,"unskilled",2,1613,0
+"496","1","< 0 EUR",24,"good","furniture/appliances",2996,"unknown","1 - 4 years",4,20,"none","own",1,"skilled",1,3718,0
+"497","1","1 - 200 EUR",36,"good","furniture/appliances",9034,"100 - 500 EUR","< 1 year",1,29,"none","rent",1,"management",1,9397,1
+"498","0","unknown",24,"critical","furniture/appliances",1585,"< 100 EUR","4 - 7 years",3,40,"none","own",2,"skilled",1,1285,0
+"499","0","1 - 200 EUR",18,"good","furniture/appliances",1301,"< 100 EUR","> 7 years",2,32,"none","own",1,"unskilled",1,1573,0
+"500","0","> 200 EUR",6,"critical","car",1323,"100 - 500 EUR","> 7 years",4,28,"none","own",2,"skilled",2,1974,1
+"501","1","< 0 EUR",24,"good","car",3123,"< 100 EUR","< 1 year",1,27,"none","own",1,"skilled",1,3742,0
+"502","0","< 0 EUR",36,"good","car",5493,"< 100 EUR","> 7 years",4,42,"none","other",1,"skilled",2,4878,0
+"503","0","> 200 EUR",9,"good","furniture/appliances",1126,"100 - 500 EUR","> 7 years",4,49,"none","own",1,"skilled",1,1004,0
+"504","1","1 - 200 EUR",24,"critical","furniture/appliances",1216,"100 - 500 EUR","< 1 year",4,38,"bank","own",2,"skilled",2,444,0
+"505","1","< 0 EUR",24,"good","car",1207,"< 100 EUR","< 1 year",4,24,"none","rent",1,"skilled",1,1189,0
+"506","1","unknown",10,"good","car",1309,"unknown","1 - 4 years",4,27,"none","own",1,"unskilled",1,568,0
+"507","0","> 200 EUR",15,"critical","car",2360,"500 - 1000 EUR","1 - 4 years",2,36,"none","own",1,"skilled",1,2200,1
+"508","1","1 - 200 EUR",15,"very good","car",6850,"100 - 500 EUR","unemployed",2,34,"none","own",1,"management",2,6985,1
+"509","0","unknown",24,"good","furniture/appliances",1413,"< 100 EUR","1 - 4 years",2,28,"none","own",1,"skilled",1,2098,0
+"510","0","unknown",39,"good","car",8588,"100 - 500 EUR","> 7 years",2,45,"none","own",1,"management",1,9240,1
+"511","1","< 0 EUR",12,"good","car",759,"< 100 EUR","4 - 7 years",2,26,"none","own",1,"skilled",1,-152,0
+"512","0","unknown",36,"good","car",4686,"< 100 EUR","1 - 4 years",2,32,"none","other",1,"management",1,5102,1
+"513","0","> 200 EUR",15,"good","business",2687,"< 100 EUR","4 - 7 years",4,26,"none","rent",1,"skilled",1,2261,1
+"514","0","1 - 200 EUR",12,"poor","furniture/appliances",585,"< 100 EUR","1 - 4 years",4,20,"none","rent",2,"skilled",1,-19,0
+"515","0","unknown",24,"good","car",2255,"unknown","< 1 year",1,54,"none","own",1,"skilled",1,2603,0
+"516","0","< 0 EUR",6,"critical","car",609,"< 100 EUR","4 - 7 years",3,37,"none","own",2,"skilled",1,972,0
+"517","0","< 0 EUR",6,"critical","car",1361,"< 100 EUR","< 1 year",4,40,"none","own",1,"unskilled",2,1177,0
+"518","1","unknown",36,"critical","furniture/appliances",7127,"< 100 EUR","< 1 year",4,23,"none","rent",2,"skilled",1,6681,1
+"519","0","< 0 EUR",6,"good","car",1203,"100 - 500 EUR","> 7 years",2,43,"none","own",1,"skilled",1,385,1
+"520","0","unknown",6,"critical","furniture/appliances",700,"unknown","> 7 years",4,36,"none","other",2,"skilled",1,1294,0
+"521","0","unknown",24,"critical","renovations",5507,"< 100 EUR","> 7 years",4,44,"none","other",2,"skilled",1,6232,0
+"522","1","< 0 EUR",18,"good","furniture/appliances",3190,"< 100 EUR","1 - 4 years",2,24,"none","own",1,"skilled",1,2930,0
+"523","1","< 0 EUR",48,"perfect","furniture/appliances",7119,"< 100 EUR","1 - 4 years",4,53,"none","other",2,"skilled",2,7732,0
+"524","0","unknown",24,"good","car",3488,"100 - 500 EUR","4 - 7 years",4,23,"none","own",1,"skilled",1,3606,0
+"525","0","1 - 200 EUR",18,"good","furniture/appliances",1113,"< 100 EUR","1 - 4 years",4,26,"none","own",1,"unskilled",2,352,0
+"526","0","1 - 200 EUR",26,"good","car",7966,"< 100 EUR","< 1 year",3,30,"none","own",2,"skilled",1,8095,0
+"527","0","unknown",15,"critical","education",1532,"100 - 500 EUR","1 - 4 years",3,31,"none","own",1,"skilled",1,634,0
+"528","0","unknown",4,"critical","furniture/appliances",1503,"< 100 EUR","4 - 7 years",1,42,"none","own",2,"unskilled",2,1738,0
+"529","1","< 0 EUR",36,"good","furniture/appliances",2302,"< 100 EUR","1 - 4 years",4,31,"none","rent",1,"skilled",1,2599,0
+"530","0","< 0 EUR",6,"good","car",662,"< 100 EUR","< 1 year",4,41,"none","own",1,"unskilled",2,866,1
+"531","0","1 - 200 EUR",36,"good","education",2273,"< 100 EUR","4 - 7 years",1,32,"none","own",2,"skilled",2,2748,0
+"532","1","1 - 200 EUR",15,"good","car",2631,"100 - 500 EUR","1 - 4 years",4,28,"none","rent",2,"skilled",1,2516,1
+"533","0","unknown",12,"poor","car",1503,"< 100 EUR","1 - 4 years",4,41,"none","rent",1,"skilled",1,2351,0
+"534","0","unknown",24,"good","furniture/appliances",1311,"100 - 500 EUR","4 - 7 years",3,26,"none","own",1,"skilled",1,2090,1
+"535","0","unknown",24,"good","furniture/appliances",3105,"unknown","< 1 year",2,25,"none","own",2,"skilled",1,2835,0
+"536","1","> 200 EUR",21,"critical","education",2319,"< 100 EUR","< 1 year",1,33,"none","rent",1,"skilled",1,3085,0
+"537","0","< 0 EUR",6,"good","car",1374,"unknown","unemployed",3,75,"none","own",1,"management",1,2264,1
+"538","0","1 - 200 EUR",18,"critical","furniture/appliances",-1000,"< 100 EUR","> 7 years",4,37,"none","own",1,"skilled",1,3869,1
+"539","1","< 0 EUR",48,"good","car",7763,"< 100 EUR","> 7 years",4,42,"bank","other",1,"management",1,7459,0
+"540","0","> 200 EUR",18,"good","furniture/appliances",3049,"< 100 EUR","< 1 year",1,45,"store","own",1,"unskilled",1,2310,0
+"541","1","1 - 200 EUR",12,"good","furniture/appliances",1534,"< 100 EUR","< 1 year",1,23,"none","rent",1,"skilled",1,1614,0
+"542","0","unknown",24,"poor","car",2032,"< 100 EUR","> 7 years",4,60,"none","other",2,"skilled",1,1694,1
+"543","1","< 0 EUR",30,"good","furniture/appliances",6350,"unknown","> 7 years",4,31,"none","own",1,"skilled",1,6708,0
+"544","1","> 200 EUR",18,"good","furniture/appliances",2864,"< 100 EUR","1 - 4 years",1,34,"none","own",1,"unskilled",2,2181,0
+"545","0","unknown",12,"critical","car",1255,"< 100 EUR","> 7 years",4,61,"none","own",2,"unskilled",1,472,0
+"546","1","< 0 EUR",24,"poor","car",1333,"< 100 EUR","unemployed",2,43,"none","other",2,"skilled",2,901,0
+"547","0","unknown",24,"critical","car",2022,"< 100 EUR","1 - 4 years",4,37,"none","own",1,"skilled",1,1911,1
+"548","0","unknown",24,"good","furniture/appliances",1552,"< 100 EUR","4 - 7 years",1,32,"bank","own",1,"skilled",2,978,0
+"549","1","< 0 EUR",12,"very good","furniture/appliances",626,"< 100 EUR","1 - 4 years",4,24,"bank","own",1,"unskilled",1,1474,0
+"550","0","unknown",48,"critical","car",8858,"unknown","4 - 7 years",1,35,"none","other",2,"skilled",1,8709,1
+"551","0","unknown",12,"critical","renovations",996,"unknown","4 - 7 years",4,23,"none","own",2,"skilled",1,1727,0
+"552","0","unknown",6,"very good","furniture/appliances",1750,"500 - 1000 EUR","> 7 years",4,45,"bank","own",1,"unskilled",2,898,0
+"553","1","< 0 EUR",48,"good","furniture/appliances",6999,"< 100 EUR","4 - 7 years",1,34,"none","own",2,"skilled",1,7492,1
+"554","0","1 - 200 EUR",12,"critical","car",1995,"100 - 500 EUR","< 1 year",1,27,"none","own",1,"skilled",1,2930,0
+"555","0","1 - 200 EUR",9,"good","education",1199,"< 100 EUR","4 - 7 years",4,67,"none","own",2,"management",1,2076,1
+"556","1","1 - 200 EUR",12,"good","furniture/appliances",1331,"< 100 EUR","< 1 year",1,22,"store","own",1,"skilled",1,2079,0
+"557","1","1 - 200 EUR",18,"perfect","car",2278,"100 - 500 EUR","< 1 year",3,28,"none","own",2,"skilled",1,1607,0
+"558","1","unknown",21,"perfect","car",5003,"unknown","1 - 4 years",4,29,"bank","own",2,"skilled",1,4694,1
+"559","1","< 0 EUR",24,"very good","furniture/appliances",3552,"< 100 EUR","4 - 7 years",4,27,"bank","own",1,"skilled",1,3110,0
+"560","1","1 - 200 EUR",18,"critical","furniture/appliances",1928,"< 100 EUR","< 1 year",2,31,"none","own",2,"unskilled",1,1032,0
+"561","0","< 0 EUR",24,"good","car",2964,"unknown","> 7 years",4,49,"bank","other",1,"skilled",2,2874,1
+"562","1","< 0 EUR",24,"very good","furniture/appliances",1546,"< 100 EUR","4 - 7 years",4,24,"bank","rent",1,"unskilled",1,890,0
+"563","0","> 200 EUR",6,"poor","furniture/appliances",683,"< 100 EUR","< 1 year",1,29,"bank","own",1,"skilled",1,570,0
+"564","1","1 - 200 EUR",36,"good","car",12389,"unknown","1 - 4 years",4,37,"none","other",1,"skilled",1,12160,1
+"565","0","1 - 200 EUR",24,"poor","business",4712,"unknown","1 - 4 years",2,37,"bank","own",2,"management",1,3911,1
+"566","0","1 - 200 EUR",24,"poor","furniture/appliances",1553,"100 - 500 EUR","4 - 7 years",2,23,"none","rent",2,"skilled",1,2432,1
+"567","1","< 0 EUR",12,"good","car",1372,"< 100 EUR","4 - 7 years",3,36,"none","own",1,"skilled",1,1718,0
+"568","0","unknown",24,"critical","furniture/appliances",2578,"> 1000 EUR","> 7 years",2,34,"none","own",1,"skilled",1,3516,0
+"569","0","1 - 200 EUR",48,"good","furniture/appliances",3979,"unknown","4 - 7 years",1,41,"none","own",2,"skilled",2,3543,1
+"570","1","< 0 EUR",48,"good","furniture/appliances",6758,"< 100 EUR","1 - 4 years",2,31,"none","own",1,"skilled",1,6825,1
+"571","1","< 0 EUR",24,"good","furniture/appliances",3234,"< 100 EUR","< 1 year",4,23,"none","rent",1,"unskilled",1,2675,1
+"572","0","unknown",30,"critical","furniture/appliances",5954,"< 100 EUR","4 - 7 years",2,38,"none","own",1,"skilled",1,6551,0
+"573","0","unknown",24,"good","car",5433,"unknown","unemployed",4,26,"none","rent",1,"management",1,5573,1
+"574","0","< 0 EUR",15,"good","business",806,"< 100 EUR","1 - 4 years",4,22,"none","own",1,"unskilled",1,524,0
+"575","0","1 - 200 EUR",9,"good","furniture/appliances",1082,"< 100 EUR","> 7 years",4,27,"none","own",2,"unskilled",1,985,0
+"576","0","unknown",15,"critical","furniture/appliances",2788,"< 100 EUR","4 - 7 years",3,24,"bank","own",2,"skilled",1,2369,0
+"577","0","1 - 200 EUR",12,"good","furniture/appliances",2930,"< 100 EUR","4 - 7 years",1,27,"none","own",1,"skilled",1,2692,0
+"578","0","unknown",24,"critical","education",1927,"unknown","1 - 4 years",2,33,"none","own",2,"skilled",1,2401,1
+"579","1","1 - 200 EUR",36,"critical","car",2820,"< 100 EUR","< 1 year",4,27,"none","own",2,"skilled",1,2128,0
+"580","0","unknown",24,"good","education",937,"< 100 EUR","< 1 year",3,27,"none","own",2,"unskilled",1,1422,0
+"581","1","1 - 200 EUR",18,"critical","car",1056,"< 100 EUR","> 7 years",3,30,"bank","own",2,"skilled",1,1850,0
+"582","0","1 - 200 EUR",12,"critical","car",3124,"< 100 EUR","< 1 year",3,49,"bank","own",2,"unskilled",2,3986,0
+"583","0","unknown",9,"good","furniture/appliances",1388,"< 100 EUR","1 - 4 years",2,26,"none","rent",1,"skilled",1,501,0
+"584","1","1 - 200 EUR",36,"good","renovations",2384,"< 100 EUR","< 1 year",1,33,"none","rent",1,"unskilled",1,3218,0
+"585","0","unknown",12,"good","car",2133,"unknown","> 7 years",4,52,"none","other",1,"management",1,1819,1
+"586","1","< 0 EUR",18,"good","furniture/appliances",2039,"< 100 EUR","1 - 4 years",4,20,"bank","rent",1,"skilled",1,1868,0
+"587","0","< 0 EUR",9,"critical","car",2799,"< 100 EUR","1 - 4 years",2,36,"none","rent",2,"skilled",2,2945,0
+"588","0","< 0 EUR",12,"good","furniture/appliances",1289,"< 100 EUR","1 - 4 years",1,21,"none","own",1,"unskilled",1,2247,0
+"589","1","< 0 EUR",18,"good","furniture/appliances",1217,"< 100 EUR","1 - 4 years",3,47,"none","own",1,"unskilled",1,1384,1
+"590","1","< 0 EUR",12,"critical","furniture/appliances",2246,"< 100 EUR","> 7 years",3,60,"none","own",2,"skilled",1,1263,0
+"591","0","< 0 EUR",12,"critical","furniture/appliances",385,"< 100 EUR","4 - 7 years",3,58,"none","own",4,"unskilled",1,1099,1
+"592","0","1 - 200 EUR",24,"poor","car",1965,"unknown","1 - 4 years",4,42,"none","rent",2,"skilled",1,1119,1
+"593","0","unknown",21,"good","business",1572,"> 1000 EUR","> 7 years",4,36,"bank","own",1,"unskilled",1,1216,0
+"594","1","1 - 200 EUR",24,"good","car",2718,"< 100 EUR","1 - 4 years",4,20,"none","rent",1,"unskilled",1,2479,1
+"595","1","< 0 EUR",24,"very good","car0",1358,"unknown","> 7 years",3,40,"store","own",1,"management",1,583,1
+"596","1","1 - 200 EUR",6,"very good","car",931,"100 - 500 EUR","< 1 year",1,32,"store","own",1,"unskilled",1,1109,0
+"597","1","< 0 EUR",24,"good","car",1442,"< 100 EUR","4 - 7 years",4,23,"none","rent",2,"skilled",1,2407,0
+"598","1","1 - 200 EUR",24,"perfect","business",4241,"< 100 EUR","1 - 4 years",4,36,"none","own",3,"unskilled",1,4834,1
+"599","1","unknown",18,"critical","car",2775,"< 100 EUR","4 - 7 years",2,31,"bank","own",2,"skilled",1,2410,0
+"600","0","unknown",24,"poor","business",3863,"< 100 EUR","1 - 4 years",2,32,"none","other",1,"skilled",1,4560,0
+"601","0","1 - 200 EUR",7,"good","furniture/appliances",2329,"< 100 EUR","< 1 year",1,45,"none","own",1,"skilled",1,1875,0
+"602","1","1 - 200 EUR",9,"good","furniture/appliances",918,"< 100 EUR","1 - 4 years",1,30,"none","own",1,"skilled",1,-30,0
+"603","1","1 - 200 EUR",24,"very good","education",1837,"< 100 EUR","4 - 7 years",4,34,"bank","other",1,"unskilled",1,1220,0
+"604","1","unknown",36,"good","furniture/appliances",3349,"< 100 EUR","1 - 4 years",2,28,"none","own",1,"management",1,3792,1
+"605","0","> 200 EUR",10,"good","furniture/appliances",1275,"< 100 EUR","< 1 year",2,23,"none","own",1,"skilled",1,310,0
+"606","0","< 0 EUR",24,"very good","furniture/appliances",2828,"500 - 1000 EUR","1 - 4 years",4,22,"store","own",1,"skilled",1,3806,1
+"607","0","unknown",24,"critical","business",4526,"< 100 EUR","1 - 4 years",2,74,"none","own",1,"management",1,4600,1
+"608","1","1 - 200 EUR",36,"good","furniture/appliances",2671,"100 - 500 EUR","1 - 4 years",4,50,"none","other",1,"skilled",1,1912,0
+"609","0","unknown",18,"good","furniture/appliances",2051,"< 100 EUR","< 1 year",1,33,"none","own",1,"skilled",1,2287,0
+"610","0","unknown",15,"good","car",1300,"unknown","> 7 years",4,45,"bank","other",1,"skilled",2,609,0
+"611","1","< 0 EUR",12,"good","furniture/appliances",741,"100 - 500 EUR","unemployed",3,22,"none","own",1,"skilled",1,239,0
+"612","1","> 200 EUR",10,"good","car",1240,"100 - 500 EUR","> 7 years",4,48,"none","other",1,"unskilled",2,1947,0
+"613","0","< 0 EUR",21,"good","furniture/appliances",3357,"> 1000 EUR","< 1 year",2,29,"bank","own",1,"skilled",1,2493,0
+"614","0","< 0 EUR",24,"very good","car",3632,"< 100 EUR","1 - 4 years",4,22,"bank","rent",1,"skilled",1,2833,0
+"615","1","unknown",18,"poor","furniture/appliances",1808,"< 100 EUR","4 - 7 years",1,22,"none","own",1,"skilled",1,2305,0
+"616","0","1 - 200 EUR",48,"perfect","business",12204,"unknown","1 - 4 years",2,48,"bank","own",1,"management",1,11911,1
+"617","0","1 - 200 EUR",60,"poor","furniture/appliances",9157,"unknown","1 - 4 years",2,27,"none","other",1,"management",1,9170,0
+"618","0","< 0 EUR",6,"critical","car",3676,"< 100 EUR","1 - 4 years",3,37,"none","rent",3,"skilled",2,3909,0
+"619","1","1 - 200 EUR",30,"good","furniture/appliances",3441,"100 - 500 EUR","1 - 4 years",4,21,"none","rent",1,"skilled",1,3573,0
+"620","0","unknown",12,"good","car",640,"< 100 EUR","1 - 4 years",2,49,"none","own",1,"unskilled",1,1293,0
+"621","0","1 - 200 EUR",21,"critical","business",3652,"< 100 EUR","4 - 7 years",3,27,"none","own",2,"skilled",1,4451,0
+"622","1","unknown",18,"critical","car",1530,"< 100 EUR","1 - 4 years",2,32,"bank","own",2,"skilled",1,584,0
+"623","1","unknown",48,"good","business",3914,"unknown","1 - 4 years",2,38,"bank","own",1,"skilled",1,4455,0
+"624","0","< 0 EUR",12,"good","furniture/appliances",1858,"< 100 EUR","< 1 year",1,22,"none","rent",1,"skilled",1,2796,0
+"625","1","< 0 EUR",18,"good","furniture/appliances",2600,"< 100 EUR","1 - 4 years",4,65,"none","other",2,"skilled",1,3040,0
+"626","0","unknown",15,"good","furniture/appliances",1979,"unknown","> 7 years",2,35,"none","own",1,"skilled",1,1317,0
+"627","0","> 200 EUR",6,"good","furniture/appliances",2116,"< 100 EUR","1 - 4 years",2,41,"none","own",1,"skilled",1,2230,1
+"628","1","1 - 200 EUR",9,"very good","car",1437,"100 - 500 EUR","4 - 7 years",3,29,"none","own",1,"skilled",1,2331,0
+"629","0","unknown",42,"critical","furniture/appliances",4042,"500 - 1000 EUR","1 - 4 years",4,36,"none","own",2,"skilled",1,4944,1
+"630","0","unknown",9,"good","education",3832,"unknown","> 7 years",4,64,"none","own",1,"unskilled",1,4793,0
+"631","0","< 0 EUR",24,"good","furniture/appliances",3660,"< 100 EUR","1 - 4 years",4,28,"none","own",1,"skilled",1,3474,0
+"632","1","< 0 EUR",18,"very good","furniture/appliances",1553,"< 100 EUR","1 - 4 years",3,44,"bank","own",1,"skilled",1,2499,0
+"633","0","1 - 200 EUR",15,"good","furniture/appliances",1444,"unknown","< 1 year",1,23,"none","own",1,"skilled",1,2227,0
+"634","1","unknown",9,"good","furniture/appliances",1980,"< 100 EUR","< 1 year",2,19,"none","rent",2,"skilled",1,2327,0
+"635","1","1 - 200 EUR",24,"good","car",1355,"< 100 EUR","< 1 year",4,25,"none","own",1,"unskilled",1,1950,1
+"636","0","unknown",12,"good","education",1393,"< 100 EUR","> 7 years",4,47,"bank","own",3,"skilled",2,458,1
+"637","0","unknown",24,"good","furniture/appliances",1376,"500 - 1000 EUR","4 - 7 years",1,28,"none","own",1,"skilled",1,686,0
+"638","0","unknown",60,"poor","furniture/appliances",15653,"< 100 EUR","4 - 7 years",4,21,"none","own",2,"skilled",1,16077,1
+"639","0","unknown",12,"good","furniture/appliances",1493,"< 100 EUR","< 1 year",3,34,"none","own",1,"skilled",2,1725,0
+"640","1","< 0 EUR",42,"poor","furniture/appliances",4370,"< 100 EUR","4 - 7 years",2,26,"bank","own",2,"skilled",2,5191,1
+"641","1","< 0 EUR",18,"good","education",750,"< 100 EUR","unemployed",1,27,"none","own",1,"unemployed",1,633,0
+"642","0","1 - 200 EUR",15,"good","renovations",1308,"< 100 EUR","> 7 years",4,38,"none","own",2,"unskilled",1,1018,0
+"643","1","unknown",15,"good","education",4623,"100 - 500 EUR","1 - 4 years",2,40,"none","own",1,"management",1,4562,1
+"644","0","unknown",24,"critical","furniture/appliances",1851,"< 100 EUR","4 - 7 years",2,33,"none","own",2,"skilled",1,2794,1
+"645","0","< 0 EUR",18,"critical","furniture/appliances",1880,"< 100 EUR","4 - 7 years",1,32,"none","own",2,"management",1,1726,1
+"646","1","unknown",36,"poor","business",7980,"unknown","< 1 year",4,27,"none","rent",2,"skilled",1,7527,1
+"647","0","< 0 EUR",30,"perfect","furniture/appliances",4583,"< 100 EUR","1 - 4 years",2,32,"none","own",2,"skilled",1,4232,0
+"648","1","unknown",12,"good","car",1386,"500 - 1000 EUR","1 - 4 years",2,26,"none","own",1,"skilled",1,1171,0
+"649","1","> 200 EUR",24,"good","car",947,"< 100 EUR","4 - 7 years",3,38,"bank","other",1,"skilled",2,1043,0
+"650","1","< 0 EUR",12,"good","education",684,"< 100 EUR","1 - 4 years",4,40,"none","rent",1,"unskilled",2,392,0
+"651","0","< 0 EUR",48,"good","education",7476,"< 100 EUR","4 - 7 years",1,50,"none","other",1,"management",1,7132,1
+"652","1","1 - 200 EUR",12,"good","furniture/appliances",1922,"< 100 EUR","1 - 4 years",2,37,"none","own",1,"unskilled",1,1498,0
+"653","1","< 0 EUR",24,"good","car",2303,"< 100 EUR","> 7 years",1,45,"none","own",1,"skilled",1,1927,0
+"654","1","1 - 200 EUR",36,"poor","car",8086,"100 - 500 EUR","> 7 years",4,42,"none","own",4,"management",1,7924,1
+"655","0","unknown",24,"critical","car",2346,"< 100 EUR","4 - 7 years",3,35,"none","own",2,"skilled",1,3086,1
+"656","0","< 0 EUR",14,"good","car",3973,"< 100 EUR","unemployed",4,22,"none","other",1,"skilled",1,3049,0
+"657","1","1 - 200 EUR",12,"good","car",888,"< 100 EUR","> 7 years",4,41,"bank","own",1,"unskilled",2,229,0
+"658","0","unknown",48,"good","furniture/appliances",10222,"unknown","4 - 7 years",3,37,"store","own",1,"skilled",1,10817,1
+"659","0","1 - 200 EUR",30,"perfect","business",4221,"< 100 EUR","1 - 4 years",1,28,"none","own",2,"skilled",1,4259,0
+"660","0","1 - 200 EUR",18,"critical","furniture/appliances",6361,"< 100 EUR","> 7 years",1,41,"none","own",1,"skilled",1,6657,1
+"661","0","> 200 EUR",12,"good","furniture/appliances",1297,"< 100 EUR","1 - 4 years",4,23,"none","rent",1,"skilled",1,2065,0
+"662","1","< 0 EUR",12,"good","car",900,"unknown","1 - 4 years",2,23,"none","own",1,"skilled",1,1106,0
+"663","0","unknown",21,"good","furniture/appliances",2241,"< 100 EUR","> 7 years",2,50,"none","own",2,"skilled",1,1556,0
+"664","0","1 - 200 EUR",6,"poor","furniture/appliances",1050,"< 100 EUR","unemployed",1,35,"store","own",2,"management",1,1393,1
+"665","0","> 200 EUR",6,"critical","education",1047,"< 100 EUR","1 - 4 years",4,50,"none","own",1,"unskilled",1,1527,0
+"666","0","unknown",24,"critical","car0",6314,"< 100 EUR","unemployed",2,27,"bank","own",2,"management",1,6997,1
+"667","0","1 - 200 EUR",30,"very good","furniture/appliances",3496,"> 1000 EUR","1 - 4 years",2,34,"store","own",1,"skilled",2,3613,1
+"668","0","unknown",48,"very good","business",3609,"< 100 EUR","1 - 4 years",1,27,"store","own",1,"skilled",1,2757,0
+"669","1","< 0 EUR",12,"critical","car",4843,"< 100 EUR","> 7 years",4,43,"none","rent",2,"skilled",1,4522,1
+"670","0","> 200 EUR",30,"critical","furniture/appliances",3017,"< 100 EUR","> 7 years",4,47,"none","own",1,"skilled",1,3950,0
+"671","0","unknown",24,"critical","business",4139,"100 - 500 EUR","1 - 4 years",3,27,"none","own",2,"unskilled",1,3566,1
+"672","0","unknown",36,"good","business",5742,"100 - 500 EUR","4 - 7 years",2,31,"none","own",2,"skilled",1,4865,1
+"673","0","unknown",60,"good","car",10366,"< 100 EUR","> 7 years",4,42,"none","own",1,"management",1,10904,1
+"674","0","unknown",6,"critical","car",2080,"500 - 1000 EUR","1 - 4 years",2,24,"none","own",1,"skilled",1,2282,0
+"675","1","unknown",21,"poor","business",2580,"500 - 1000 EUR","< 1 year",2,41,"bank","own",1,"unskilled",2,3523,0
+"676","0","unknown",30,"critical","furniture/appliances",4530,"< 100 EUR","4 - 7 years",4,26,"none","rent",1,"management",1,4806,1
+"677","0","unknown",24,"critical","furniture/appliances",5150,"< 100 EUR","> 7 years",4,33,"none","own",1,"skilled",1,5350,1
+"678","1","1 - 200 EUR",72,"good","furniture/appliances",5595,"100 - 500 EUR","1 - 4 years",2,24,"none","own",1,"skilled",1,5130,0
+"679","0","< 0 EUR",24,"good","furniture/appliances",2384,"< 100 EUR","> 7 years",4,64,"bank","rent",1,"unskilled",1,3023,0
+"680","0","unknown",18,"good","furniture/appliances",1453,"< 100 EUR","< 1 year",1,26,"none","own",1,"skilled",1,645,0
+"681","0","unknown",6,"good","education",1538,"< 100 EUR","< 1 year",2,56,"none","own",1,"skilled",1,2082,0
+"682","0","unknown",12,"good","furniture/appliances",2279,"unknown","1 - 4 years",4,37,"none","other",1,"skilled",1,2634,1
+"683","0","unknown",15,"poor","furniture/appliances",1478,"< 100 EUR","1 - 4 years",3,33,"bank","own",2,"skilled",1,1402,0
+"684","0","unknown",24,"critical","furniture/appliances",5103,"< 100 EUR","< 1 year",3,47,"none","other",3,"skilled",1,4630,1
+"685","0","1 - 200 EUR",36,"poor","business",9857,"100 - 500 EUR","4 - 7 years",3,31,"none","own",2,"unskilled",2,10168,1
+"686","0","unknown",60,"good","car",6527,"unknown","1 - 4 years",4,34,"none","other",1,"skilled",2,5724,1
+"687","0","> 200 EUR",10,"critical","furniture/appliances",1347,"unknown","4 - 7 years",2,27,"none","own",2,"skilled",1,422,1
+"688","0","1 - 200 EUR",36,"poor","car",2862,"100 - 500 EUR","> 7 years",3,30,"none","other",1,"skilled",1,1868,0
+"689","0","unknown",9,"good","furniture/appliances",2753,"100 - 500 EUR","> 7 years",4,35,"none","own",1,"skilled",1,2293,1
+"690","0","< 0 EUR",12,"good","car",3651,"> 1000 EUR","1 - 4 years",3,31,"none","own",1,"skilled",2,3781,0
+"691","0","< 0 EUR",15,"critical","furniture/appliances",975,"< 100 EUR","1 - 4 years",3,25,"none","own",2,"skilled",1,938,0
+"692","0","1 - 200 EUR",15,"good","renovations",2631,"100 - 500 EUR","1 - 4 years",2,25,"none","own",1,"unskilled",1,3593,0
+"693","0","1 - 200 EUR",24,"good","furniture/appliances",2896,"100 - 500 EUR","< 1 year",1,29,"none","own",1,"skilled",1,3203,0
+"694","0","< 0 EUR",6,"critical","car",4716,"unknown","< 1 year",3,44,"none","own",2,"unskilled",2,4983,0
+"695","0","unknown",24,"good","furniture/appliances",2284,"< 100 EUR","4 - 7 years",2,28,"none","own",1,"skilled",1,1350,1
+"696","0","unknown",6,"good","car",1236,"500 - 1000 EUR","1 - 4 years",4,50,"none","rent",1,"skilled",1,541,0
+"697","0","1 - 200 EUR",12,"good","furniture/appliances",1103,"< 100 EUR","4 - 7 years",3,29,"none","own",2,"skilled",1,1585,0
+"698","0","unknown",12,"critical","car",926,"< 100 EUR","unemployed",2,38,"none","own",1,"unemployed",1,1428,0
+"699","0","unknown",18,"critical","furniture/appliances",1800,"< 100 EUR","1 - 4 years",2,24,"none","own",2,"skilled",1,2124,0
+"700","0","> 200 EUR",15,"good","education",1905,"< 100 EUR","> 7 years",4,40,"none","rent",1,"management",1,1993,1
+"701","1","unknown",12,"good","furniture/appliances",1123,"500 - 1000 EUR","1 - 4 years",4,29,"none","rent",1,"unskilled",1,1307,0
+"702","1","< 0 EUR",48,"critical","car",6331,"< 100 EUR","> 7 years",4,46,"none","other",2,"skilled",1,5898,1
+"703","0","> 200 EUR",24,"good","furniture/appliances",1377,"100 - 500 EUR","> 7 years",2,47,"none","other",1,"skilled",1,2162,1
+"704","0","1 - 200 EUR",30,"poor","business",2503,"100 - 500 EUR","> 7 years",2,41,"store","own",2,"skilled",1,2136,0
+"705","0","1 - 200 EUR",27,"good","business",2528,"< 100 EUR","< 1 year",1,32,"none","own",1,"skilled",2,2122,1
+"706","0","unknown",15,"good","car",5324,"500 - 1000 EUR","> 7 years",4,35,"none","other",1,"skilled",1,5721,0
+"707","1","1 - 200 EUR",48,"good","car",6560,"100 - 500 EUR","4 - 7 years",2,24,"none","own",1,"skilled",1,5585,0
+"708","1","1 - 200 EUR",12,"perfect","furniture/appliances",2969,"< 100 EUR","< 1 year",3,25,"none","rent",2,"skilled",1,3311,0
+"709","0","1 - 200 EUR",9,"good","furniture/appliances",1206,"< 100 EUR","> 7 years",4,25,"none","own",1,"skilled",1,301,0
+"710","0","1 - 200 EUR",9,"good","furniture/appliances",2118,"< 100 EUR","1 - 4 years",2,37,"none","own",1,"unskilled",2,2316,0
+"711","0","unknown",18,"critical","furniture/appliances",629,"500 - 1000 EUR","> 7 years",3,32,"bank","own",2,"management",1,323,1
+"712","1","< 0 EUR",6,"very good","education",1198,"< 100 EUR","> 7 years",4,35,"none","other",1,"skilled",1,2135,0
+"713","0","unknown",21,"good","car",2476,"unknown","> 7 years",4,46,"none","own",1,"management",1,2411,1
+"714","0","< 0 EUR",9,"critical","furniture/appliances",1138,"< 100 EUR","1 - 4 years",4,25,"none","own",2,"unskilled",1,407,0
+"715","1","1 - 200 EUR",60,"good","car",14027,"< 100 EUR","4 - 7 years",2,27,"none","own",1,"management",1,13374,1
+"716","0","unknown",30,"critical","car",7596,"unknown","> 7 years",4,63,"none","own",2,"skilled",1,8193,0
+"717","0","unknown",30,"critical","furniture/appliances",3077,"unknown","> 7 years",2,40,"none","own",2,"skilled",2,2963,1
+"718","0","unknown",18,"good","furniture/appliances",1505,"< 100 EUR","1 - 4 years",2,32,"none","other",1,"management",1,976,1
+"719","0","> 200 EUR",24,"critical","furniture/appliances",3148,"unknown","1 - 4 years",2,31,"none","own",2,"skilled",1,4042,1
+"720","0","1 - 200 EUR",20,"perfect","car",6148,"100 - 500 EUR","> 7 years",4,31,"bank","own",2,"skilled",1,6507,1
+"721","1","> 200 EUR",9,"perfect","furniture/appliances",1337,"< 100 EUR","< 1 year",2,34,"none","own",2,"management",1,1113,1
+"722","1","1 - 200 EUR",6,"very good","education",433,"> 1000 EUR","< 1 year",2,24,"bank","rent",1,"skilled",2,-467,0
+"723","1","< 0 EUR",12,"good","car",1228,"< 100 EUR","1 - 4 years",2,24,"none","own",1,"unskilled",1,2049,0
+"724","0","1 - 200 EUR",9,"good","furniture/appliances",790,"500 - 1000 EUR","1 - 4 years",3,66,"none","own",1,"unskilled",1,253,0
+"725","1","unknown",27,"good","car",2570,"< 100 EUR","1 - 4 years",3,21,"none","rent",1,"skilled",1,3209,0
+"726","0","unknown",6,"critical","car",250,"> 1000 EUR","1 - 4 years",2,41,"bank","own",2,"unskilled",1,-492,0
+"727","0","unknown",15,"critical","furniture/appliances",1316,"500 - 1000 EUR","1 - 4 years",2,47,"none","own",2,"unskilled",1,784,0
+"728","1","< 0 EUR",18,"good","furniture/appliances",1882,"< 100 EUR","1 - 4 years",4,25,"bank","rent",2,"skilled",1,1776,0
+"729","1","1 - 200 EUR",48,"very good","business",6416,"< 100 EUR","> 7 years",3,59,"none","rent",1,"skilled",1,6763,0
+"730","0","> 200 EUR",24,"critical","business",1275,"> 1000 EUR","1 - 4 years",4,36,"none","own",2,"skilled",1,1354,1
+"731","0","1 - 200 EUR",24,"poor","furniture/appliances",6403,"< 100 EUR","< 1 year",2,33,"none","own",1,"skilled",1,5860,0
+"732","1","< 0 EUR",24,"good","furniture/appliances",1987,"< 100 EUR","1 - 4 years",4,21,"none","rent",1,"unskilled",2,2710,0
+"733","0","1 - 200 EUR",8,"good","furniture/appliances",760,"< 100 EUR","4 - 7 years",2,44,"none","own",1,"unskilled",1,-101,0
+"734","0","unknown",24,"good","car",2603,"> 1000 EUR","1 - 4 years",4,28,"none","rent",1,"skilled",1,3064,1
+"735","0","unknown",4,"critical","car",3380,"< 100 EUR","4 - 7 years",1,37,"none","own",1,"skilled",2,2737,0
+"736","0","1 - 200 EUR",36,"very good","furniture/appliances",3990,"unknown","< 1 year",2,29,"bank","own",1,"unemployed",1,4909,0
+"737","1","1 - 200 EUR",24,"good","car",11560,"< 100 EUR","1 - 4 years",4,23,"none","rent",2,"management",1,11180,0
+"738","0","< 0 EUR",18,"good","car",4380,"100 - 500 EUR","1 - 4 years",4,35,"none","own",1,"unskilled",2,4467,1
+"739","0","unknown",6,"critical","car",6761,"< 100 EUR","4 - 7 years",3,45,"none","own",2,"management",2,6726,1
+"740","1","1 - 200 EUR",30,"perfect","business",4280,"100 - 500 EUR","1 - 4 years",4,26,"none","rent",2,"unskilled",1,4188,0
+"741","0","< 0 EUR",24,"very good","car",2325,"100 - 500 EUR","4 - 7 years",3,32,"bank","own",1,"skilled",1,3212,0
+"742","0","1 - 200 EUR",10,"very good","furniture/appliances",1048,"< 100 EUR","1 - 4 years",4,23,"store","own",1,"unskilled",1,959,0
+"743","0","unknown",21,"good","furniture/appliances",3160,"unknown","> 7 years",3,41,"none","own",1,"skilled",1,4115,1
+"744","0","< 0 EUR",24,"very good","furniture/appliances",2483,"500 - 1000 EUR","1 - 4 years",4,22,"store","own",1,"skilled",1,2860,1
+"745","0","< 0 EUR",39,"critical","furniture/appliances",14179,"unknown","4 - 7 years",4,30,"none","own",2,"management",1,14900,1
+"746","0","< 0 EUR",13,"critical","business",1797,"< 100 EUR","< 1 year",1,28,"bank","own",2,"unskilled",1,1540,0
+"747","0","< 0 EUR",15,"good","car",2511,"< 100 EUR","unemployed",4,23,"none","rent",1,"skilled",1,2680,0
+"748","1","< 0 EUR",12,"good","car",1274,"< 100 EUR","< 1 year",1,37,"none","own",1,"unskilled",1,1112,0
+"749","0","unknown",21,"good","car",5248,"unknown","1 - 4 years",3,26,"none","own",1,"skilled",1,5794,0
+"750","0","unknown",15,"good","car",3029,"< 100 EUR","4 - 7 years",2,33,"none","own",1,"skilled",1,2507,0
+"751","0","< 0 EUR",6,"good","furniture/appliances",428,"< 100 EUR","> 7 years",1,49,"bank","own",1,"skilled",1,-489,1
+"752","1","< 0 EUR",18,"good","car",976,"< 100 EUR","< 1 year",2,23,"none","own",1,"unskilled",1,91,0
+"753","0","1 - 200 EUR",12,"good","business",841,"100 - 500 EUR","4 - 7 years",4,23,"none","rent",1,"unskilled",1,412,0
+"754","0","unknown",30,"critical","furniture/appliances",5771,"< 100 EUR","4 - 7 years",2,25,"none","own",2,"skilled",1,5769,0
+"755","1","unknown",12,"poor","renovations",1555,"> 1000 EUR","> 7 years",4,55,"none","other",2,"skilled",2,2079,0
+"756","1","< 0 EUR",24,"good","car",1285,"unknown","4 - 7 years",4,32,"none","rent",1,"skilled",1,2236,0
+"757","0","> 200 EUR",6,"critical","car",1299,"< 100 EUR","1 - 4 years",1,74,"none","own",3,"unemployed",2,2267,0
+"758","1","> 200 EUR",15,"critical","furniture/appliances",1271,"unknown","1 - 4 years",4,39,"none","other",2,"skilled",1,373,1
+"759","0","unknown",24,"good","car",1393,"< 100 EUR","1 - 4 years",2,31,"none","own",1,"skilled",1,2044,1
+"760","1","< 0 EUR",12,"critical","car",691,"< 100 EUR","> 7 years",3,35,"none","own",2,"skilled",1,948,0
+"761","0","unknown",15,"critical","car",5045,"unknown","> 7 years",4,59,"none","own",1,"skilled",1,5520,1
+"762","1","< 0 EUR",18,"critical","furniture/appliances",2124,"< 100 EUR","1 - 4 years",4,24,"none","rent",2,"skilled",1,1850,0
+"763","0","< 0 EUR",12,"good","furniture/appliances",2214,"< 100 EUR","1 - 4 years",3,24,"none","own",1,"unskilled",1,2399,0
+"764","1","unknown",21,"critical","car",12680,"unknown","> 7 years",4,30,"none","other",1,"management",1,11985,1
+"765","0","unknown",24,"critical","car",2463,"100 - 500 EUR","4 - 7 years",3,27,"none","own",2,"skilled",1,2108,1
+"766","0","1 - 200 EUR",12,"good","furniture/appliances",1155,"< 100 EUR","> 7 years",3,40,"bank","own",2,"unskilled",1,501,0
+"767","1","< 0 EUR",30,"good","furniture/appliances",3108,"< 100 EUR","< 1 year",4,31,"none","own",1,"unskilled",1,4096,0
+"768","0","unknown",10,"good","car",2901,"unknown","< 1 year",4,31,"none","rent",1,"skilled",1,3791,0
+"769","0","1 - 200 EUR",12,"critical","furniture/appliances",3617,"< 100 EUR","> 7 years",4,28,"none","rent",3,"skilled",1,3494,1
+"770","0","unknown",12,"critical","furniture/appliances",1655,"< 100 EUR","> 7 years",4,63,"none","own",2,"unskilled",1,2021,1
+"771","0","< 0 EUR",24,"good","car",2812,"unknown","> 7 years",4,26,"none","rent",1,"skilled",1,2451,0
+"772","1","< 0 EUR",36,"critical","education",8065,"< 100 EUR","1 - 4 years",2,25,"none","own",2,"management",1,8980,1
+"773","0","unknown",21,"critical","car",3275,"< 100 EUR","> 7 years",4,36,"none","own",1,"management",1,2607,1
+"774","0","unknown",24,"critical","furniture/appliances",2223,"100 - 500 EUR","> 7 years",4,52,"bank","own",2,"skilled",1,1937,0
+"775","0","> 200 EUR",12,"critical","car",1480,"500 - 1000 EUR","unemployed",4,66,"bank","other",3,"unemployed",1,1951,0
+"776","1","< 0 EUR",24,"good","car",1371,"unknown","1 - 4 years",4,25,"none","rent",1,"skilled",1,796,0
+"777","0","unknown",36,"critical","car",3535,"< 100 EUR","4 - 7 years",4,37,"none","own",2,"skilled",1,2774,1
+"778","0","< 0 EUR",18,"good","furniture/appliances",3509,"< 100 EUR","4 - 7 years",1,25,"none","own",1,"skilled",1,2684,0
+"779","0","unknown",36,"critical","car",5711,"> 1000 EUR","> 7 years",2,38,"none","own",2,"management",1,5808,1
+"780","0","1 - 200 EUR",18,"good","renovations",3872,"< 100 EUR","unemployed",4,67,"none","own",1,"skilled",1,3479,1
+"781","1","1 - 200 EUR",39,"critical","furniture/appliances",4933,"< 100 EUR","4 - 7 years",2,25,"none","own",2,"skilled",1,4395,0
+"782","0","unknown",24,"critical","car",1940,"> 1000 EUR","> 7 years",4,60,"none","own",1,"skilled",1,1874,1
+"783","0","1 - 200 EUR",12,"perfect","education",1410,"< 100 EUR","1 - 4 years",2,31,"none","own",1,"unskilled",1,1036,1
+"784","1","1 - 200 EUR",12,"good","car",836,"100 - 500 EUR","< 1 year",2,23,"bank","own",1,"unskilled",1,321,0
+"785","0","1 - 200 EUR",20,"good","car",6468,"unknown","unemployed",4,60,"none","own",1,"management",1,6599,1
+"786","0","1 - 200 EUR",18,"good","business",1941,"> 1000 EUR","1 - 4 years",2,35,"none","own",1,"unskilled",1,1116,1
+"787","0","unknown",22,"good","furniture/appliances",2675,"500 - 1000 EUR","> 7 years",4,40,"none","own",1,"skilled",1,2089,0
+"788","0","unknown",48,"critical","car",2751,"unknown","> 7 years",3,38,"none","own",2,"skilled",2,2150,1
+"789","1","1 - 200 EUR",48,"poor","education",6224,"< 100 EUR","> 7 years",4,50,"none","other",1,"skilled",1,6075,0
+"790","1","< 0 EUR",40,"critical","education",5998,"< 100 EUR","1 - 4 years",3,27,"bank","own",1,"skilled",1,6138,1
+"791","1","1 - 200 EUR",21,"good","business",1188,"< 100 EUR","> 7 years",4,39,"none","own",1,"skilled",2,1861,0
+"792","0","unknown",24,"good","car",6313,"unknown","> 7 years",4,41,"none","own",1,"management",2,5934,1
+"793","0","unknown",6,"critical","furniture/appliances",1221,"unknown","1 - 4 years",2,27,"none","own",2,"skilled",1,2081,0
+"794","0","> 200 EUR",24,"good","furniture/appliances",2892,"< 100 EUR","> 7 years",4,51,"none","other",1,"skilled",1,3200,0
+"795","0","unknown",24,"good","furniture/appliances",3062,"500 - 1000 EUR","> 7 years",3,32,"none","rent",1,"skilled",1,2337,1
+"796","0","unknown",9,"good","furniture/appliances",2301,"100 - 500 EUR","< 1 year",4,22,"none","rent",1,"skilled",1,2744,0
+"797","1","< 0 EUR",18,"good","car",7511,"unknown","> 7 years",4,51,"none","other",1,"skilled",2,7930,1
+"798","0","unknown",12,"critical","furniture/appliances",1258,"< 100 EUR","< 1 year",4,22,"none","rent",2,"unskilled",1,2164,0
+"799","0","unknown",24,"poor","car",717,"unknown","> 7 years",4,54,"none","own",2,"skilled",1,231,1
+"800","0","1 - 200 EUR",9,"good","car",1549,"unknown","< 1 year",2,35,"none","own",1,"unemployed",1,585,0
+"801","0","unknown",24,"critical","education",1597,"< 100 EUR","> 7 years",4,54,"none","other",2,"skilled",2,1158,0
+"802","0","1 - 200 EUR",18,"critical","furniture/appliances",1795,"< 100 EUR","> 7 years",4,48,"bank","rent",2,"unskilled",1,1679,1
+"803","0","< 0 EUR",20,"critical","furniture/appliances",4272,"< 100 EUR","> 7 years",4,24,"none","own",2,"skilled",1,3555,0
+"804","0","unknown",12,"critical","furniture/appliances",976,"unknown","> 7 years",4,35,"none","own",2,"skilled",1,1107,0
+"805","0","1 - 200 EUR",12,"good","car",7472,"unknown","unemployed",2,24,"none","rent",1,"unemployed",1,6840,0
+"806","1","< 0 EUR",36,"good","car",9271,"< 100 EUR","4 - 7 years",1,24,"none","own",1,"skilled",1,8788,1
+"807","0","1 - 200 EUR",6,"good","furniture/appliances",590,"< 100 EUR","< 1 year",3,26,"none","own",1,"unskilled",1,477,0
+"808","0","unknown",12,"critical","furniture/appliances",930,"unknown","> 7 years",4,65,"none","own",4,"skilled",1,1116,0
+"809","0","1 - 200 EUR",42,"very good","car",9283,"< 100 EUR","unemployed",2,55,"bank","other",1,"management",1,9506,1
+"810","1","1 - 200 EUR",15,"perfect","car",1778,"< 100 EUR","< 1 year",1,26,"none","rent",2,"unemployed",1,2367,0
+"811","0","1 - 200 EUR",8,"good","business",907,"< 100 EUR","< 1 year",2,26,"none","own",1,"skilled",1,1101,1
+"812","0","1 - 200 EUR",6,"good","furniture/appliances",484,"< 100 EUR","4 - 7 years",3,28,"bank","own",1,"unskilled",1,-166,0
+"813","1","< 0 EUR",36,"critical","car",9629,"< 100 EUR","4 - 7 years",4,24,"none","own",2,"skilled",1,8648,1
+"814","1","< 0 EUR",48,"good","furniture/appliances",3051,"< 100 EUR","1 - 4 years",4,54,"none","own",1,"skilled",1,3576,0
+"815","1","< 0 EUR",48,"good","car",3931,"< 100 EUR","4 - 7 years",4,46,"none","other",1,"skilled",2,3450,0
+"816","0","1 - 200 EUR",36,"poor","car",7432,"< 100 EUR","1 - 4 years",2,54,"none","rent",1,"skilled",1,8110,0
+"817","0","unknown",6,"good","furniture/appliances",1338,"500 - 1000 EUR","1 - 4 years",4,62,"none","own",1,"skilled",1,2224,0
+"818","0","unknown",6,"critical","furniture/appliances",1554,"< 100 EUR","4 - 7 years",2,24,"none","rent",2,"skilled",1,823,1
+"819","0","< 0 EUR",36,"good","car0",15857,"< 100 EUR","unemployed",3,43,"none","own",1,"management",1,15296,0
+"820","1","< 0 EUR",18,"good","furniture/appliances",1345,"< 100 EUR","1 - 4 years",3,26,"bank","own",1,"skilled",1,2044,0
+"821","0","unknown",12,"good","car",1101,"< 100 EUR","1 - 4 years",2,27,"none","own",2,"skilled",1,1502,1
+"822","0","> 200 EUR",12,"good","furniture/appliances",3016,"< 100 EUR","1 - 4 years",1,24,"none","own",1,"skilled",1,3444,0
+"823","1","< 0 EUR",36,"good","furniture/appliances",2712,"< 100 EUR","> 7 years",2,41,"bank","own",1,"skilled",2,1982,0
+"824","0","< 0 EUR",8,"critical","car",731,"< 100 EUR","> 7 years",4,47,"none","own",2,"unskilled",1,-170,0
+"825","0","unknown",18,"critical","furniture/appliances",3780,"< 100 EUR","< 1 year",2,35,"none","own",2,"management",1,4513,1
+"826","0","< 0 EUR",21,"critical","car",1602,"< 100 EUR","> 7 years",3,30,"none","own",2,"skilled",1,1129,1
+"827","1","< 0 EUR",18,"critical","car",3966,"< 100 EUR","> 7 years",4,33,"bank","rent",3,"skilled",1,3682,1
+"828","1","unknown",18,"perfect","business",4165,"< 100 EUR","1 - 4 years",2,36,"store","own",2,"skilled",2,4596,0
+"829","1","< 0 EUR",36,"good","car",8335,"unknown","> 7 years",4,47,"none","other",1,"skilled",1,7482,0
+"830","0","1 - 200 EUR",48,"poor","business",6681,"unknown","1 - 4 years",4,38,"none","other",1,"skilled",2,6995,1
+"831","0","unknown",24,"poor","business",2375,"500 - 1000 EUR","1 - 4 years",2,44,"none","own",2,"skilled",2,1755,1
+"832","1","< 0 EUR",18,"good","car",1216,"< 100 EUR","< 1 year",3,23,"none","rent",1,"skilled",1,1457,1
+"833","1","< 0 EUR",45,"perfect","business",11816,"< 100 EUR","> 7 years",4,29,"none","rent",2,"skilled",1,11538,0
+"834","0","1 - 200 EUR",24,"good","furniture/appliances",5084,"unknown","> 7 years",4,42,"none","own",1,"skilled",1,5642,1
+"835","1","> 200 EUR",15,"good","furniture/appliances",2327,"< 100 EUR","< 1 year",3,25,"none","own",1,"unskilled",1,2342,0
+"836","1","< 0 EUR",12,"perfect","car",1082,"< 100 EUR","1 - 4 years",4,48,"bank","own",2,"skilled",1,1442,0
+"837","0","unknown",12,"good","furniture/appliances",886,"unknown","1 - 4 years",2,21,"none","own",1,"skilled",1,1511,0
+"838","0","unknown",4,"good","furniture/appliances",601,"< 100 EUR","< 1 year",3,23,"none","rent",1,"unskilled",2,318,0
+"839","0","< 0 EUR",24,"critical","car",2957,"< 100 EUR","> 7 years",4,63,"none","own",2,"skilled",1,2042,1
+"840","0","unknown",24,"critical","furniture/appliances",2611,"< 100 EUR","> 7 years",3,46,"none","own",2,"skilled",1,2320,0
+"841","1","< 0 EUR",36,"good","furniture/appliances",5179,"< 100 EUR","4 - 7 years",2,29,"none","own",1,"skilled",1,6143,0
+"842","0","unknown",21,"poor","car",2993,"< 100 EUR","1 - 4 years",2,28,"store","own",2,"unskilled",1,2441,0
+"843","1","unknown",18,"good","renovations",1943,"< 100 EUR","< 1 year",4,23,"none","own",1,"skilled",1,1211,0
+"844","0","unknown",24,"very good","business",1559,"< 100 EUR","4 - 7 years",4,50,"bank","own",1,"skilled",1,1213,1
+"845","0","unknown",18,"good","furniture/appliances",3422,"< 100 EUR","> 7 years",4,47,"bank","own",3,"skilled",2,2801,1
+"846","0","1 - 200 EUR",21,"good","furniture/appliances",3976,"unknown","4 - 7 years",3,35,"none","own",1,"skilled",1,3781,1
+"847","1","unknown",18,"good","car",6761,"unknown","1 - 4 years",4,68,"none","rent",2,"skilled",1,5849,0
+"848","0","unknown",24,"good","car",1249,"< 100 EUR","< 1 year",2,28,"none","own",1,"skilled",1,444,0
+"849","0","< 0 EUR",9,"good","furniture/appliances",1364,"< 100 EUR","4 - 7 years",4,59,"none","own",1,"skilled",1,468,0
+"850","1","< 0 EUR",12,"good","furniture/appliances",709,"< 100 EUR","> 7 years",4,57,"store","own",1,"unskilled",1,-137,0
+"851","1","< 0 EUR",20,"critical","car",2235,"< 100 EUR","1 - 4 years",2,33,"bank","rent",2,"skilled",1,2637,0
+"852","0","unknown",24,"critical","car",4042,"unknown","4 - 7 years",4,43,"none","own",2,"skilled",1,4778,1
+"853","0","unknown",15,"critical","furniture/appliances",1471,"< 100 EUR","1 - 4 years",4,35,"none","other",2,"skilled",1,2413,1
+"854","1","< 0 EUR",18,"very good","car",1442,"< 100 EUR","4 - 7 years",4,32,"none","other",2,"unskilled",2,664,0
+"855","0","unknown",36,"poor","car",10875,"< 100 EUR","> 7 years",2,45,"none","own",2,"skilled",2,11468,1
+"856","0","unknown",24,"good","car",1474,"100 - 500 EUR","< 1 year",3,33,"none","own",1,"skilled",1,1464,1
+"857","0","unknown",10,"good","education",894,"unknown","4 - 7 years",3,40,"none","own",1,"skilled",1,990,1
+"858","0","unknown",15,"critical","furniture/appliances",3343,"< 100 EUR","1 - 4 years",2,28,"none","other",1,"skilled",1,2880,1
+"859","1","< 0 EUR",15,"good","car",3959,"< 100 EUR","1 - 4 years",2,29,"none","own",1,"skilled",1,3996,1
+"860","0","unknown",9,"good","car",3577,"100 - 500 EUR","1 - 4 years",2,26,"none","rent",1,"skilled",2,3279,0
+"861","0","unknown",24,"critical","car",5804,"> 1000 EUR","1 - 4 years",2,27,"none","own",2,"skilled",1,6230,0
+"862","1","unknown",18,"poor","business",2169,"< 100 EUR","1 - 4 years",2,28,"none","own",1,"skilled",1,1484,1
+"863","1","< 0 EUR",24,"good","furniture/appliances",2439,"< 100 EUR","< 1 year",4,35,"none","own",1,"skilled",1,1832,1
+"864","0","unknown",27,"critical","furniture/appliances",4526,"> 1000 EUR","< 1 year",2,32,"store","own",2,"unskilled",2,3870,1
+"865","1","unknown",10,"good","furniture/appliances",2210,"< 100 EUR","1 - 4 years",2,25,"bank","rent",1,"unskilled",1,1871,0
+"866","0","unknown",15,"good","furniture/appliances",2221,"500 - 1000 EUR","1 - 4 years",4,20,"none","rent",1,"skilled",1,2722,0
+"867","0","< 0 EUR",18,"good","furniture/appliances",2389,"< 100 EUR","< 1 year",1,27,"store","own",1,"skilled",1,3199,0
+"868","0","unknown",12,"critical","furniture/appliances",3331,"< 100 EUR","> 7 years",4,42,"store","own",1,"skilled",1,2969,0
+"869","0","unknown",36,"good","business",7409,"unknown","> 7 years",2,37,"none","own",2,"skilled",1,8303,0
+"870","0","< 0 EUR",12,"good","furniture/appliances",652,"< 100 EUR","> 7 years",4,24,"none","rent",1,"skilled",1,205,0
+"871","0","unknown",36,"poor","furniture/appliances",7678,"500 - 1000 EUR","4 - 7 years",4,40,"none","own",2,"skilled",1,7946,1
+"872","0","> 200 EUR",6,"critical","car",1343,"< 100 EUR","> 7 years",4,46,"none","own",2,"skilled",2,1998,0
+"873","0","< 0 EUR",24,"critical","business",1382,"100 - 500 EUR","4 - 7 years",1,26,"none","own",2,"skilled",1,2241,1
+"874","0","unknown",15,"good","furniture/appliances",874,"unknown","< 1 year",1,24,"none","own",1,"skilled",1,193,0
+"875","0","< 0 EUR",12,"good","furniture/appliances",3590,"< 100 EUR","1 - 4 years",2,29,"none","own",1,"unskilled",2,3907,0
+"876","0","1 - 200 EUR",11,"critical","car",1322,"> 1000 EUR","1 - 4 years",4,40,"none","own",2,"skilled",1,1980,0
+"877","0","< 0 EUR",18,"very good","furniture/appliances",1940,"< 100 EUR","< 1 year",4,36,"bank","other",1,"management",1,1926,1
+"878","0","unknown",36,"good","furniture/appliances",3595,"< 100 EUR","> 7 years",2,28,"none","own",1,"skilled",1,3659,0
+"879","1","< 0 EUR",9,"good","car",1422,"< 100 EUR","< 1 year",2,27,"none","other",1,"management",1,1998,1
+"880","0","unknown",30,"critical","furniture/appliances",6742,"unknown","4 - 7 years",3,36,"none","own",2,"skilled",1,6995,0
+"881","0","unknown",24,"good","car",7814,"< 100 EUR","4 - 7 years",3,38,"none","own",1,"management",1,7801,1
+"882","0","unknown",24,"good","car",9277,"unknown","1 - 4 years",4,48,"none","other",1,"skilled",1,8523,1
+"883","0","1 - 200 EUR",30,"critical","car",2181,"unknown","> 7 years",4,36,"none","own",2,"skilled",1,1883,0
+"884","0","unknown",18,"critical","furniture/appliances",1098,"< 100 EUR","unemployed",4,65,"none","own",2,"unemployed",1,1113,0
+"885","1","1 - 200 EUR",24,"good","furniture/appliances",4057,"< 100 EUR","4 - 7 years",3,43,"none","own",1,"skilled",1,4518,1
+"886","1","< 0 EUR",12,"good","education",795,"< 100 EUR","< 1 year",4,53,"none","own",1,"skilled",1,1395,0
+"887","0","1 - 200 EUR",24,"critical","business",2825,"unknown","4 - 7 years",3,34,"none","own",2,"skilled",2,2973,1
+"888","1","1 - 200 EUR",48,"good","business",15672,"< 100 EUR","1 - 4 years",2,23,"none","own",1,"skilled",1,16538,1
+"889","0","unknown",36,"critical","car",6614,"< 100 EUR","> 7 years",4,34,"none","own",2,"management",1,7386,1
+"890","0","unknown",28,"very good","car",7824,"unknown","< 1 year",4,40,"bank","rent",2,"skilled",2,7553,1
+"891","0","< 0 EUR",27,"critical","business",2442,"< 100 EUR","> 7 years",4,43,"store","own",4,"management",2,3006,1
+"892","0","unknown",15,"critical","furniture/appliances",1829,"< 100 EUR","> 7 years",4,46,"none","own",2,"skilled",1,913,1
+"893","0","< 0 EUR",12,"critical","car",2171,"< 100 EUR","1 - 4 years",4,38,"bank","own",2,"unskilled",1,2551,0
+"894","0","1 - 200 EUR",36,"critical","car",5800,"< 100 EUR","1 - 4 years",4,34,"none","own",2,"skilled",1,6553,1
+"895","0","unknown",18,"critical","furniture/appliances",1169,"unknown","1 - 4 years",3,29,"none","own",2,"skilled",1,2051,1
+"896","0","unknown",36,"poor","car",8947,"unknown","4 - 7 years",2,31,"store","own",1,"management",2,8278,1
+"897","0","< 0 EUR",21,"good","furniture/appliances",2606,"< 100 EUR","< 1 year",4,28,"none","rent",1,"management",1,2522,1
+"898","0","unknown",12,"critical","furniture/appliances",1592,"> 1000 EUR","4 - 7 years",2,35,"none","own",1,"skilled",1,1726,0
+"899","0","unknown",15,"good","furniture/appliances",2186,"unknown","4 - 7 years",4,33,"bank","rent",1,"unskilled",1,1907,0
+"900","1","< 0 EUR",18,"good","furniture/appliances",4153,"< 100 EUR","1 - 4 years",3,42,"none","own",1,"skilled",1,3753,0
+"901","1","< 0 EUR",16,"critical","car",2625,"< 100 EUR","> 7 years",4,43,"bank","rent",1,"skilled",1,1858,1
+"902","0","unknown",20,"critical","car",3485,"unknown","< 1 year",4,44,"none","own",2,"skilled",1,3558,1
+"903","0","unknown",36,"critical","car",10477,"unknown","> 7 years",4,42,"none","other",2,"skilled",1,10814,0
+"904","0","unknown",15,"good","furniture/appliances",1386,"unknown","1 - 4 years",2,40,"none","rent",1,"skilled",1,748,1
+"905","0","unknown",24,"good","furniture/appliances",1278,"< 100 EUR","> 7 years",1,36,"none","own",1,"management",1,1135,1
+"906","0","< 0 EUR",12,"good","furniture/appliances",1107,"< 100 EUR","1 - 4 years",2,20,"none","rent",1,"management",2,199,1
+"907","0","< 0 EUR",21,"good","car",3763,"unknown","4 - 7 years",2,24,"none","own",1,"unskilled",1,3799,0
+"908","0","1 - 200 EUR",36,"good","education",3711,"unknown","1 - 4 years",2,27,"none","own",1,"skilled",1,2882,0
+"909","0","unknown",15,"poor","car",3594,"< 100 EUR","< 1 year",2,46,"none","own",2,"unskilled",1,3294,0
+"910","0","1 - 200 EUR",9,"good","car",3195,"unknown","1 - 4 years",2,33,"none","own",1,"unskilled",1,3979,0
+"911","0","unknown",36,"poor","furniture/appliances",4454,"< 100 EUR","1 - 4 years",4,34,"none","own",2,"skilled",1,5406,0
+"912","1","1 - 200 EUR",24,"critical","furniture/appliances",4736,"< 100 EUR","< 1 year",4,25,"bank","own",1,"unskilled",1,4731,0
+"913","0","1 - 200 EUR",30,"good","furniture/appliances",2991,"unknown","> 7 years",4,25,"none","own",1,"skilled",1,2114,0
+"914","0","unknown",11,"good","business",2142,"> 1000 EUR","> 7 years",2,28,"none","own",1,"skilled",1,1845,1
+"915","1","< 0 EUR",24,"very good","business",3161,"< 100 EUR","1 - 4 years",2,31,"none","rent",1,"skilled",1,3801,1
+"916","1","1 - 200 EUR",48,"perfect","car0",18424,"< 100 EUR","1 - 4 years",2,32,"bank","own",1,"management",1,18078,1
+"917","0","unknown",10,"good","car",2848,"100 - 500 EUR","1 - 4 years",2,32,"none","own",1,"skilled",2,2100,0
+"918","1","< 0 EUR",6,"good","car",14896,"< 100 EUR","> 7 years",4,68,"bank","own",1,"management",1,15877,1
+"919","1","< 0 EUR",24,"good","furniture/appliances",2359,"100 - 500 EUR","unemployed",1,33,"none","own",1,"skilled",1,2722,0
+"920","1","< 0 EUR",24,"good","furniture/appliances",3345,"< 100 EUR","> 7 years",2,39,"none","rent",1,"management",1,2672,1
+"921","0","unknown",18,"critical","furniture/appliances",1817,"< 100 EUR","1 - 4 years",2,28,"none","own",2,"skilled",1,2276,0
+"922","0","unknown",48,"poor","furniture/appliances",12749,"500 - 1000 EUR","4 - 7 years",1,37,"none","own",1,"management",1,12905,1
+"923","1","< 0 EUR",9,"good","furniture/appliances",1366,"< 100 EUR","< 1 year",4,22,"none","rent",1,"skilled",1,1232,0
+"924","0","1 - 200 EUR",12,"good","car",2002,"< 100 EUR","4 - 7 years",4,30,"none","rent",1,"skilled",2,2038,1
+"925","1","< 0 EUR",24,"very good","furniture/appliances",6872,"< 100 EUR","< 1 year",1,55,"bank","own",1,"skilled",1,6371,1
+"926","1","< 0 EUR",12,"very good","car",697,"< 100 EUR","< 1 year",2,46,"bank","own",2,"skilled",1,1664,1
+"927","0","< 0 EUR",18,"critical","furniture/appliances",1049,"< 100 EUR","< 1 year",4,21,"none","rent",1,"skilled",1,1533,0
+"928","1","< 0 EUR",48,"good","car",10297,"< 100 EUR","4 - 7 years",4,39,"store","other",3,"skilled",2,11059,1
+"929","0","unknown",30,"good","furniture/appliances",1867,"unknown","> 7 years",4,58,"none","own",1,"skilled",1,1831,1
+"930","0","< 0 EUR",12,"poor","car",1344,"< 100 EUR","1 - 4 years",2,43,"none","own",2,"unskilled",2,1633,0
+"931","0","< 0 EUR",24,"good","furniture/appliances",1747,"< 100 EUR","< 1 year",1,24,"none","own",1,"unskilled",1,2593,0
+"932","1","1 - 200 EUR",9,"good","furniture/appliances",1670,"< 100 EUR","< 1 year",2,22,"none","own",1,"skilled",1,1270,1
+"933","0","unknown",9,"critical","car",1224,"< 100 EUR","1 - 4 years",1,30,"none","own",2,"skilled",1,1506,0
+"934","0","unknown",12,"critical","furniture/appliances",522,"500 - 1000 EUR","> 7 years",4,42,"none","own",2,"skilled",2,576,1
+"935","0","< 0 EUR",12,"good","furniture/appliances",1498,"< 100 EUR","1 - 4 years",1,23,"bank","own",1,"skilled",1,1648,0
+"936","1","1 - 200 EUR",30,"poor","furniture/appliances",1919,"100 - 500 EUR","< 1 year",3,30,"store","own",2,"management",1,2698,0
+"937","1","> 200 EUR",9,"good","furniture/appliances",745,"< 100 EUR","1 - 4 years",2,28,"none","own",1,"unskilled",1,-218,0
+"938","0","1 - 200 EUR",6,"good","furniture/appliances",2063,"< 100 EUR","< 1 year",3,30,"none","rent",1,"management",1,2022,1
+"939","1","1 - 200 EUR",60,"good","education",6288,"< 100 EUR","1 - 4 years",4,42,"none","other",1,"skilled",1,5455,0
+"940","0","unknown",24,"critical","car",6842,"unknown","1 - 4 years",4,46,"none","own",2,"management",2,6885,1
+"941","0","unknown",12,"good","car",3527,"unknown","< 1 year",3,45,"none","own",1,"management",2,3096,1
+"942","0","unknown",10,"good","car",1546,"< 100 EUR","1 - 4 years",2,31,"none","own",1,"unskilled",2,2078,0
+"943","0","unknown",24,"good","furniture/appliances",929,"unknown","4 - 7 years",2,31,"store","own",1,"skilled",1,1418,1
+"944","0","unknown",4,"critical","car",1455,"< 100 EUR","4 - 7 years",1,42,"none","own",3,"unskilled",2,2411,0
+"945","0","< 0 EUR",15,"good","furniture/appliances",1845,"< 100 EUR","< 1 year",1,46,"none","rent",1,"skilled",1,1148,0
+"946","0","1 - 200 EUR",48,"perfect","car",8358,"500 - 1000 EUR","< 1 year",1,30,"none","own",2,"skilled",1,7607,0
+"947","1","< 0 EUR",24,"very good","furniture/appliances",3349,"500 - 1000 EUR","< 1 year",4,30,"none","other",1,"skilled",2,4075,1
+"948","0","unknown",12,"good","car",2859,"unknown","unemployed",4,38,"none","own",1,"management",1,3415,1
+"949","1","unknown",18,"good","furniture/appliances",1533,"< 100 EUR","< 1 year",1,43,"none","own",1,"unskilled",2,1881,0
+"950","1","unknown",24,"good","furniture/appliances",3621,"100 - 500 EUR","> 7 years",4,31,"none","own",2,"skilled",1,3788,0
+"951","0","1 - 200 EUR",18,"critical","business",3590,"< 100 EUR","unemployed",3,40,"none","own",3,"unemployed",2,3623,1
+"952","1","< 0 EUR",36,"poor","business",2145,"< 100 EUR","4 - 7 years",1,24,"none","own",2,"skilled",1,2399,1
+"953","1","1 - 200 EUR",24,"good","car",4113,"500 - 1000 EUR","< 1 year",4,28,"none","rent",1,"skilled",1,3675,0
+"954","1","unknown",36,"good","furniture/appliances",10974,"< 100 EUR","unemployed",2,26,"none","own",2,"management",1,10537,1
+"955","0","< 0 EUR",12,"good","car",1893,"< 100 EUR","1 - 4 years",4,29,"none","own",1,"skilled",1,2140,1
+"956","0","< 0 EUR",24,"critical","furniture/appliances",1231,"> 1000 EUR","> 7 years",4,57,"none","rent",2,"management",1,1444,1
+"957","0","> 200 EUR",30,"critical","furniture/appliances",3656,"unknown","> 7 years",4,49,"store","own",2,"unskilled",1,3206,0
+"958","0","1 - 200 EUR",9,"critical","furniture/appliances",1154,"< 100 EUR","> 7 years",4,37,"none","own",3,"unskilled",1,1692,0
+"959","1","< 0 EUR",28,"good","car",4006,"< 100 EUR","1 - 4 years",2,45,"none","own",1,"unskilled",1,3010,0
+"960","0","1 - 200 EUR",24,"good","furniture/appliances",3069,"100 - 500 EUR","> 7 years",4,30,"none","other",1,"skilled",1,3559,0
+"961","0","unknown",6,"critical","furniture/appliances",1740,"< 100 EUR","> 7 years",2,30,"none","rent",2,"skilled",1,2264,0
+"962","0","1 - 200 EUR",21,"poor","car",2353,"< 100 EUR","1 - 4 years",4,47,"none","own",2,"skilled",1,1751,0
+"963","0","unknown",2400,"good","car",3556,"unknown","1 - 4 years",2,29,"none","own",1,"skilled",1,2681,0
+"964","1","unknown",24,"good","furniture/appliances",2397,"500 - 1000 EUR","> 7 years",2,35,"bank","own",2,"skilled",1,3336,1
+"965","0","1 - 200 EUR",6,"good","renovations",454,"< 100 EUR","< 1 year",1,22,"none","own",1,"unskilled",1,1241,0
+"966","0","1 - 200 EUR",30,"good","furniture/appliances",1715,"unknown","1 - 4 years",1,26,"none","own",1,"skilled",1,1239,0
+"967","1","1 - 200 EUR",27,"critical","furniture/appliances",2520,"500 - 1000 EUR","1 - 4 years",2,23,"none","own",2,"unskilled",1,2520,0
+"968","0","unknown",15,"good","furniture/appliances",3568,"< 100 EUR","> 7 years",2,54,"bank","rent",1,"management",1,3461,1
+"969","0","unknown",42,"good","furniture/appliances",7166,"unknown","4 - 7 years",4,29,"none","rent",1,"skilled",1,6192,1
+"970","0","< 0 EUR",11,"critical","car",3939,"< 100 EUR","1 - 4 years",2,40,"none","own",2,"unskilled",2,3603,0
+"971","0","1 - 200 EUR",15,"good","renovations",1514,"100 - 500 EUR","1 - 4 years",2,22,"none","own",1,"skilled",1,967,0
+"972","0","unknown",24,"good","car",7393,"< 100 EUR","1 - 4 years",4,43,"none","own",1,"unskilled",2,7305,0
+"973","1","< 0 EUR",24,"very good","car",1193,"< 100 EUR","unemployed",4,29,"none","rent",2,"unemployed",1,528,0
+"974","1","< 0 EUR",60,"good","business",7297,"< 100 EUR","> 7 years",4,36,"none","rent",1,"skilled",1,6765,0
+"975","0","unknown",30,"critical","furniture/appliances",2831,"< 100 EUR","1 - 4 years",2,33,"none","own",1,"skilled",1,2148,1
+"976","0","> 200 EUR",24,"good","furniture/appliances",1258,"500 - 1000 EUR","1 - 4 years",3,57,"none","own",1,"unskilled",1,648,0
+"977","0","1 - 200 EUR",6,"good","furniture/appliances",753,"< 100 EUR","1 - 4 years",3,64,"none","own",1,"skilled",1,1407,0
+"978","0","1 - 200 EUR",18,"poor","business",2427,"unknown","> 7 years",2,42,"none","own",2,"skilled",1,2504,0
+"979","1","unknown",24,"poor","car",2538,"< 100 EUR","> 7 years",4,47,"none","own",2,"unskilled",2,2004,0
+"980","1","1 - 200 EUR",15,"very good","car",1264,"100 - 500 EUR","1 - 4 years",2,25,"none","rent",1,"skilled",1,440,0
+"981","1","1 - 200 EUR",30,"critical","furniture/appliances",8386,"< 100 EUR","4 - 7 years",2,49,"none","own",1,"skilled",1,9309,0
+"982","1","unknown",48,"good","business",4844,"< 100 EUR","unemployed",2,33,"bank","rent",1,"management",1,5393,1
+"983","0","> 200 EUR",21,"good","car",2923,"100 - 500 EUR","1 - 4 years",1,28,"bank","own",1,"management",1,2542,1
+"984","1","< 0 EUR",36,"good","car",8229,"< 100 EUR","1 - 4 years",2,26,"none","own",1,"skilled",2,8279,0
+"985","0","unknown",24,"critical","furniture/appliances",2028,"< 100 EUR","4 - 7 years",2,30,"none","own",2,"unskilled",1,1051,0
+"986","0","< 0 EUR",15,"critical","furniture/appliances",1433,"< 100 EUR","1 - 4 years",3,25,"none","rent",2,"skilled",1,594,0
+"987","0","> 200 EUR",42,"perfect","business",6289,"< 100 EUR","< 1 year",1,33,"none","own",2,"skilled",1,6259,0
+"988","0","unknown",13,"good","furniture/appliances",1409,"100 - 500 EUR","unemployed",4,64,"none","own",1,"skilled",1,885,0
+"989","0","< 0 EUR",24,"good","car",6579,"< 100 EUR","unemployed",2,29,"none","other",1,"management",1,6807,1
+"990","0","1 - 200 EUR",24,"critical","furniture/appliances",1743,"< 100 EUR","> 7 years",2,48,"none","own",2,"unskilled",1,2289,0
+"991","0","unknown",12,"critical","education",3565,"unknown","< 1 year",1,37,"none","own",2,"unskilled",2,4345,0
+"992","0","unknown",15,"very good","furniture/appliances",1569,"100 - 500 EUR","> 7 years",4,34,"bank","own",1,"unskilled",2,2049,0
+"993","0","< 0 EUR",18,"good","furniture/appliances",1936,"unknown","4 - 7 years",4,23,"none","rent",2,"unskilled",1,1450,0
+"994","0","< 0 EUR",36,"good","furniture/appliances",3959,"< 100 EUR","unemployed",3,30,"none","own",1,"management",1,4745,1
+"995","0","unknown",12,"good","car",2390,"unknown","> 7 years",3,50,"none","own",1,"skilled",1,3313,1
+"996","0","unknown",12,"good","furniture/appliances",1736,"< 100 EUR","4 - 7 years",4,31,"none","own",1,"unskilled",1,1581,0
+"997","0","< 0 EUR",30,"good","car",3857,"< 100 EUR","1 - 4 years",4,40,"none","own",1,"management",1,3948,1
+"998","0","unknown",12,"good","furniture/appliances",804,"< 100 EUR","> 7 years",4,38,"none","own",1,"skilled",1,729,0
+"999","1","< 0 EUR",45,"good","furniture/appliances",1845,"< 100 EUR","1 - 4 years",4,23,"none","other",1,"skilled",1,1634,1
+"1000","0","1 - 200 EUR",45,"critical","car",4576,"100 - 500 EUR","unemployed",4,27,"none","own",1,"skilled",1,5010,0
